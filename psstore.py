@@ -1,4 +1,5 @@
-import json, os, re, smtplib, ssl, urllib.request, urllib.error
+import json, os, re, smtplib, ssl, urllib.request
+from collections import Counter
 from email.message import EmailMessage
 
 URL = "https://store.playstation.com/fr-fr/category/e1699f77-77e1-43ca-a296-26d08abacb0f/1"
@@ -6,31 +7,38 @@ SEEN_FILE = "seen.json"
 
 def recuperer_jeux():
     req = urllib.request.Request(URL, headers={"User-Agent": "Mozilla/5.0", "Accept-Language": "fr-FR"})
-    infos = ""
     try:
-        r = urllib.request.urlopen(req, timeout=30)
-        html = r.read().decode("utf-8", "ignore")
-        infos = f"Code: {r.status}\nAdresse finale: {r.geturl()}\nTaille: {len(html)}\n"
-    except urllib.error.HTTPError as e:
-        return {}, f"Erreur HTTP {e.code} : {e.reason}"
+        html = urllib.request.urlopen(req, timeout=30).read().decode("utf-8", "ignore")
     except Exception as e:
         return {}, f"Erreur : {e}"
     m = re.search(r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>', html, re.S)
-    infos += f"__NEXT_DATA__ trouvé: {bool(m)}\n"
-    infos += "Début de la page:\n" + html[:300]
     if not m:
-        return {}, infos
-    jeux = {}
+        return {}, "Pas de __NEXT_DATA__"
+    data = json.loads(m.group(1))
+    jeux, types, exemples, apollo = {}, Counter(), [], []
     def parcourir(x):
         if isinstance(x, dict):
-            if x.get("__typename") == "Product" and x.get("id") and x.get("name"):
-                jeux[x["id"]] = x["name"]
+            t = x.get("__typename")
+            if t:
+                types[t] += 1
+            if t and x.get("id") and isinstance(x.get("name"), str):
+                if len(exemples) < 5:
+                    exemples.append(f"{t} | {x['id']} | {x['name']}")
+                if "Product" in t or "Concept" in t:
+                    jeux[x["id"]] = x["name"]
+            if "apolloState" in x and isinstance(x["apolloState"], dict) and not apollo:
+                apollo.extend(list(x["apolloState"].keys())[:10])
             for v in x.values():
                 parcourir(v)
         elif isinstance(x, list):
             for v in x:
                 parcourir(v)
-    parcourir(json.loads(m.group(1)))
+    parcourir(data)
+    infos = f"Taille JSON: {len(m.group(1))}\n"
+    infos += f"Clés racine: {list(data.keys())[:10]}\n"
+    infos += f"Types trouvés: {types.most_common(15)}\n"
+    infos += f"Exemples: {exemples}\n"
+    infos += f"Clés apolloState: {apollo}\n"
     return jeux, infos
 
 def envoyer(sujet, texte):
@@ -47,7 +55,7 @@ def envoyer(sujet, texte):
 
 jeux, infos = recuperer_jeux()
 if not jeux:
-    envoyer("PS Store : diagnostic", "Aucun jeu trouvé.\n\n" + infos)
+    envoyer("PS Store : diagnostic 2", "Aucun jeu trouvé.\n\n" + infos)
     raise SystemExit(1)
 
 vus = json.load(open(SEEN_FILE)) if os.path.exists(SEEN_FILE) else []

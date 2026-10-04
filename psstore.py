@@ -1,4 +1,4 @@
-import json, os, re, smtplib, ssl, urllib.request
+import json, os, re, smtplib, ssl, urllib.request, urllib.error
 from email.message import EmailMessage
 
 URL = "https://store.playstation.com/fr-fr/category/e1699f77-77e1-43ca-a296-26d08abacb0f/1"
@@ -6,10 +6,20 @@ SEEN_FILE = "seen.json"
 
 def recuperer_jeux():
     req = urllib.request.Request(URL, headers={"User-Agent": "Mozilla/5.0", "Accept-Language": "fr-FR"})
-    html = urllib.request.urlopen(req, timeout=30).read().decode("utf-8")
+    infos = ""
+    try:
+        r = urllib.request.urlopen(req, timeout=30)
+        html = r.read().decode("utf-8", "ignore")
+        infos = f"Code: {r.status}\nAdresse finale: {r.geturl()}\nTaille: {len(html)}\n"
+    except urllib.error.HTTPError as e:
+        return {}, f"Erreur HTTP {e.code} : {e.reason}"
+    except Exception as e:
+        return {}, f"Erreur : {e}"
     m = re.search(r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>', html, re.S)
+    infos += f"__NEXT_DATA__ trouvé: {bool(m)}\n"
+    infos += "Début de la page:\n" + html[:300]
     if not m:
-        return {}
+        return {}, infos
     jeux = {}
     def parcourir(x):
         if isinstance(x, dict):
@@ -21,7 +31,7 @@ def recuperer_jeux():
             for v in x:
                 parcourir(v)
     parcourir(json.loads(m.group(1)))
-    return jeux
+    return jeux, infos
 
 def envoyer(sujet, texte):
     adresse = os.environ["GMAIL_ADDRESS"]
@@ -35,9 +45,9 @@ def envoyer(sujet, texte):
         s.login(adresse, mdp)
         s.send_message(msg)
 
-jeux = recuperer_jeux()
+jeux, infos = recuperer_jeux()
 if not jeux:
-    envoyer("PS Store : problème", "Le script n'a trouvé aucun jeu. La page du store a peut-être changé.")
+    envoyer("PS Store : diagnostic", "Aucun jeu trouvé.\n\n" + infos)
     raise SystemExit(1)
 
 vus = json.load(open(SEEN_FILE)) if os.path.exists(SEEN_FILE) else []

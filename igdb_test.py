@@ -20,7 +20,7 @@ def principal():
     now = int(time.time())
     debut, fin = now - 7 * 86400, now + 86400
     corps = ("fields date,platform.abbreviation,game.name,game.genres.name,game.aggregated_rating,game.videos.video_id; "
-             f"where date >= {debut} & date < {fin} & platform = (167,48); sort date desc; limit 200;")
+             f"where date >= {debut} & date < {fin} & platform = (167); sort date desc; limit 200;")
     jeux = {}
     for l in requete(token, corps):
         g = l.get("game")

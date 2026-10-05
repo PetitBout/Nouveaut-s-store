@@ -1,6 +1,32 @@
 {
- "maj": "2026-10-04 20:39",
+ "maj": "2026-10-05 06:23",
  "jeux": [
+  {
+   "id": 381154,
+   "nom": "Gear.Club Unlimited 3",
+   "date": "2026-10-06",
+   "genres": [
+    "Racing",
+    "Simulator",
+    "Sport"
+   ],
+   "note": null,
+   "video": "v6KrxPMV8Wg",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob09t.jpg"
+  },
+  {
+   "id": 381248,
+   "nom": "Star Wars: Galactic Racer",
+   "date": "2026-10-06",
+   "genres": [
+    "Racing",
+    "Sport",
+    "Adventure"
+   ],
+   "note": 83,
+   "video": "B2g95FIBP04",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobihx.jpg"
+  },
   {
    "id": 411821,
    "nom": "Monster Nursery",
@@ -51,6 +77,17 @@
    "note": 90,
    "video": "OeKsDHjPJiw",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0h1.jpg"
+  },
+  {
+   "id": 421093,
+   "nom": "Arcade Archives 2: Crazy Balloon",
+   "date": "2026-10-01",
+   "genres": [
+    "Arcade"
+   ],
+   "note": null,
+   "video": "ty9ZjI81BxU",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod17d.jpg"
   },
   {
    "id": 152766,
@@ -481,6 +518,19 @@
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3xxr.jpg"
   },
   {
+   "id": 407259,
+   "nom": "Gods With Guns",
+   "date": "2026-09-25",
+   "genres": [
+    "Fighting",
+    "Shooter",
+    "Role-playing (RPG)"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod1xo.jpg"
+  },
+  {
    "id": 377098,
    "nom": "Angle of Attack",
    "date": "2026-09-25",
@@ -794,20 +844,6 @@
    "note": 89,
    "video": "anZtoPo2Fpw",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobf3a.jpg"
-  },
-  {
-   "id": 380437,
-   "nom": "Samson",
-   "date": "2026-09-21",
-   "genres": [
-    "Fighting",
-    "Racing",
-    "Role-playing (RPG)",
-    "Adventure"
-   ],
-   "note": 75,
-   "video": "OQ4z_yQE5Xo",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coay8a.jpg"
   }
  ]
 }

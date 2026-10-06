@@ -1,6 +1,17 @@
 {
- "maj": "2026-10-05 06:23",
+ "maj": "2026-10-06 06:19",
  "jeux": [
+  {
+   "id": 240556,
+   "nom": "Deep Rock Galactic: Survivor",
+   "date": "2026-10-07",
+   "genres": [
+    "Shooter"
+   ],
+   "note": 90,
+   "video": "VQ4WnXdarx4",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co68ah.jpg"
+  },
   {
    "id": 381154,
    "nom": "Gear.Club Unlimited 3",
@@ -204,7 +215,7 @@
   },
   {
    "id": 231488,
-   "nom": "RetroSpace",
+   "nom": "Retrospace",
    "date": "2026-10-01",
    "genres": [
     "Shooter",
@@ -437,18 +448,6 @@
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9u3u.jpg"
   },
   {
-   "id": 415005,
-   "nom": "The Witcher 3: Wild Hunt Remastered",
-   "date": "2026-09-29",
-   "genres": [
-    "Role-playing (RPG)",
-    "Adventure"
-   ],
-   "note": null,
-   "video": "OlmuIckOX0c",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocrjd.jpg"
-  },
-  {
    "id": 383019,
    "nom": "Way of the Hunter 2",
    "date": "2026-09-29",
@@ -606,6 +605,18 @@
    "note": null,
    "video": "ipsfQDCt2h0",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaf0c.jpg"
+  },
+  {
+   "id": 420561,
+   "nom": "Silent Hill: Townfall - Day One Edition",
+   "date": "2026-09-24",
+   "genres": [
+    "Puzzle",
+    "Adventure"
+   ],
+   "note": null,
+   "video": "bpqRBsXP6M0",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod1is.jpg"
   },
   {
    "id": 214992,
@@ -766,84 +777,6 @@
    "note": null,
    "video": "r0nmZf6mdMQ",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coccit.jpg"
-  },
-  {
-   "id": 418570,
-   "nom": "Control Resonant: Digital Deluxe Edition",
-   "date": "2026-09-22",
-   "genres": [
-    "Role-playing (RPG)",
-    "Hack and slash/Beat 'em up",
-    "Adventure"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocxgx.jpg"
-  },
-  {
-   "id": 397817,
-   "nom": "Graveyard Keeper II",
-   "date": "2026-09-22",
-   "genres": [
-    "Role-playing (RPG)",
-    "Simulator",
-    "Strategy",
-    "Adventure"
-   ],
-   "note": null,
-   "video": "9p5TKYn8oqI",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobwhy.jpg"
-  },
-  {
-   "id": 360075,
-   "nom": "Well Dweller",
-   "date": "2026-09-22",
-   "genres": [
-    "Platform",
-    "Role-playing (RPG)",
-    "Adventure",
-    "Indie"
-   ],
-   "note": 88,
-   "video": "J1e29j2DzqU",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa8qh.jpg"
-  },
-  {
-   "id": 380416,
-   "nom": "Rivage",
-   "date": "2026-09-22",
-   "genres": [
-    "Puzzle",
-    "Adventure",
-    "Indie"
-   ],
-   "note": 71,
-   "video": "RcFcHAMdIng",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coay6k.jpg"
-  },
-  {
-   "id": 404083,
-   "nom": "Silent Hill: Townfall Deluxe Edition",
-   "date": "2026-09-22",
-   "genres": [
-    "Puzzle",
-    "Adventure"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc5sb.jpg"
-  },
-  {
-   "id": 214394,
-   "nom": "Dune: Awakening",
-   "date": "2026-09-22",
-   "genres": [
-    "Role-playing (RPG)",
-    "Adventure"
-   ],
-   "note": 89,
-   "video": "anZtoPo2Fpw",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobf3a.jpg"
   }
  ]
 }

@@ -1,6 +1,196 @@
 {
- "maj": "2026-10-06 06:19",
+ "maj": "2026-10-07 06:18",
  "jeux": [
+  {
+   "id": 320726,
+   "nom": "Deck of Haunts",
+   "date": "2026-10-08",
+   "genres": [
+    "Simulator",
+    "Strategy",
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "Xh7Z4gNFlPA",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8z8a.jpg"
+  },
+  {
+   "id": 325279,
+   "nom": "Neon Abyss 2",
+   "date": "2026-10-08",
+   "genres": [
+    "Role-playing (RPG)",
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "A86PCFApasQ",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co954c.jpg"
+  },
+  {
+   "id": 381222,
+   "nom": "Order of the Sinking Star",
+   "date": "2026-10-08",
+   "genres": [
+    "Puzzle",
+    "Adventure"
+   ],
+   "note": null,
+   "video": "ZwEG6S2RtQI",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc954.jpg"
+  },
+  {
+   "id": 290107,
+   "nom": "Echo Weaver",
+   "date": "2026-10-08",
+   "genres": [
+    "Platform",
+    "Puzzle",
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "SNdJC4LupW8",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9g3f.jpg"
+  },
+  {
+   "id": 353943,
+   "nom": "Spica Adventure",
+   "date": "2026-10-08",
+   "genres": [
+    "Platform",
+    "Adventure",
+    "Arcade"
+   ],
+   "note": null,
+   "video": "ZPTXvcvFjuU",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobxby.jpg"
+  },
+  {
+   "id": 356552,
+   "nom": "Clive Barker's Hellraiser: Revival",
+   "date": "2026-10-08",
+   "genres": [
+    "Adventure"
+   ],
+   "note": null,
+   "video": "E_4kAp6gsZE",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa5o9.jpg"
+  },
+  {
+   "id": 2933,
+   "nom": "Kingdom Hearts III",
+   "date": "2026-10-08",
+   "genres": [
+    "Role-playing (RPG)",
+    "Hack and slash/Beat 'em up",
+    "Adventure"
+   ],
+   "note": 90,
+   "video": "EunHzNTCpx8",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tpy.jpg"
+  },
+  {
+   "id": 26676,
+   "nom": "Kingdom Hearts 0.2: Birth by Sleep - A Fragmentary Passage",
+   "date": "2026-10-08",
+   "genres": [
+    "Role-playing (RPG)",
+    "Hack and slash/Beat 'em up"
+   ],
+   "note": null,
+   "video": "DB-SgmfG_eM",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8m20.jpg"
+  },
+  {
+   "id": 117525,
+   "nom": "Kingdom Hearts Dream Drop Distance HD",
+   "date": "2026-10-08",
+   "genres": [
+    "Fighting",
+    "Role-playing (RPG)",
+    "Hack and slash/Beat 'em up",
+    "Adventure"
+   ],
+   "note": null,
+   "video": "lElMrj25JHI",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8m1w.jpg"
+  },
+  {
+   "id": 221997,
+   "nom": "Kingdom Hearts Birth by Sleep Final Mix",
+   "date": "2026-10-08",
+   "genres": [
+    "Role-playing (RPG)"
+   ],
+   "note": null,
+   "video": "Wv0zANnJiVk",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8m1t.jpg"
+  },
+  {
+   "id": 221998,
+   "nom": "Kingdom Hearts II Final Mix",
+   "date": "2026-10-08",
+   "genres": [
+    "Shooter",
+    "Platform",
+    "Role-playing (RPG)",
+    "Hack and slash/Beat 'em up",
+    "Adventure"
+   ],
+   "note": null,
+   "video": "Wv0zANnJiVk",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8m1s.jpg"
+  },
+  {
+   "id": 214986,
+   "nom": "Kingdom Hearts Re:Chain of Memories",
+   "date": "2026-10-08",
+   "genres": [
+    "Role-playing (RPG)",
+    "Adventure"
+   ],
+   "note": null,
+   "video": "WoTFkF88rKs",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8m1q.jpg"
+  },
+  {
+   "id": 212758,
+   "nom": "Kingdom Hearts Final Mix",
+   "date": "2026-10-08",
+   "genres": [
+    "Role-playing (RPG)",
+    "Adventure"
+   ],
+   "note": null,
+   "video": "Wv0zANnJiVk",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8m1o.jpg"
+  },
+  {
+   "id": 136299,
+   "nom": "Forever Ago",
+   "date": "2026-10-08",
+   "genres": [
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "U49-3_zprNQ",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc78v.jpg"
+  },
+  {
+   "id": 313597,
+   "nom": "Silver Pines",
+   "date": "2026-10-08",
+   "genres": [
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "xKJD4_0o0Ek",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaxvl.jpg"
+  },
   {
    "id": 240556,
    "nom": "Deep Rock Galactic: Survivor",
@@ -34,7 +224,7 @@
     "Sport",
     "Adventure"
    ],
-   "note": 83,
+   "note": 88,
    "video": "B2g95FIBP04",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobihx.jpg"
   },
@@ -88,6 +278,18 @@
    "note": 90,
    "video": "OeKsDHjPJiw",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0h1.jpg"
+  },
+  {
+   "id": 331151,
+   "nom": "Storebound",
+   "date": "2026-10-01",
+   "genres": [
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "sRYeDuCPTJI",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocd8d.jpg"
   },
   {
    "id": 421093,
@@ -607,6 +809,18 @@
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaf0c.jpg"
   },
   {
+   "id": 420803,
+   "nom": "Console Archives: Karate Champ",
+   "date": "2026-09-24",
+   "genres": [
+    "Fighting",
+    "Sport"
+   ],
+   "note": null,
+   "video": "tVQ_DONwhy4",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod2lb.jpg"
+  },
+  {
    "id": 420561,
    "nom": "Silent Hill: Townfall - Day One Edition",
    "date": "2026-09-24",
@@ -751,32 +965,6 @@
    "note": null,
    "video": "xMx5u80XM7E",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobr3j.jpg"
-  },
-  {
-   "id": 369520,
-   "nom": "Birdcage",
-   "date": "2026-09-23",
-   "genres": [
-    "Shooter",
-    "Hack and slash/Beat 'em up",
-    "Indie",
-    "Arcade"
-   ],
-   "note": null,
-   "video": "LrZ5SISBx0U",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coap52.jpg"
-  },
-  {
-   "id": 375076,
-   "nom": "Lawn Mowing Simulator 2",
-   "date": "2026-09-23",
-   "genres": [
-    "Simulator",
-    "Strategy"
-   ],
-   "note": null,
-   "video": "r0nmZf6mdMQ",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coccit.jpg"
   }
  ]
 }

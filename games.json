@@ -1,6 +1,55 @@
 {
- "maj": "2026-10-07 06:18",
+ "maj": "2026-10-08 06:21",
  "jeux": [
+  {
+   "id": 248673,
+   "nom": "Dungeons & Degenerate Gamblers",
+   "date": "2026-10-09",
+   "genres": [
+    "Role-playing (RPG)",
+    "Strategy",
+    "Indie"
+   ],
+   "note": 76,
+   "video": "Q3IzShOv9Fk",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8l2d.jpg"
+  },
+  {
+   "id": 381154,
+   "nom": "Gear.Club Unlimited 3",
+   "date": "2026-10-09",
+   "genres": [
+    "Racing",
+    "Simulator",
+    "Sport"
+   ],
+   "note": null,
+   "video": "v6KrxPMV8Wg",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob09t.jpg"
+  },
+  {
+   "id": 276028,
+   "nom": "Paperhead",
+   "date": "2026-10-09",
+   "genres": [
+    "Shooter",
+    "Indie"
+   ],
+   "note": null,
+   "video": "DqdjcF__d9A",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocz72.jpg"
+  },
+  {
+   "id": 406240,
+   "nom": "Sesame Street: Friends & Fun",
+   "date": "2026-10-09",
+   "genres": [
+    "Adventure"
+   ],
+   "note": null,
+   "video": "k-dFFv6YO2A",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc93a.jpg"
+  },
   {
    "id": 320726,
    "nom": "Deck of Haunts",
@@ -36,7 +85,7 @@
     "Puzzle",
     "Adventure"
    ],
-   "note": null,
+   "note": 95,
    "video": "ZwEG6S2RtQI",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc954.jpg"
   },
@@ -187,9 +236,9 @@
     "Adventure",
     "Indie"
    ],
-   "note": null,
+   "note": 90,
    "video": "xKJD4_0o0Ek",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaxvl.jpg"
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod2rg.jpg"
   },
   {
    "id": 240556,
@@ -201,19 +250,6 @@
    "note": 90,
    "video": "VQ4WnXdarx4",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co68ah.jpg"
-  },
-  {
-   "id": 381154,
-   "nom": "Gear.Club Unlimited 3",
-   "date": "2026-10-06",
-   "genres": [
-    "Racing",
-    "Simulator",
-    "Sport"
-   ],
-   "note": null,
-   "video": "v6KrxPMV8Wg",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob09t.jpg"
   },
   {
    "id": 381248,
@@ -398,7 +434,7 @@
     "Role-playing (RPG)",
     "Adventure"
    ],
-   "note": 94,
+   "note": 96,
    "video": "2bQrrWCRkMY",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocofa.jpg"
   },
@@ -425,7 +461,7 @@
     "Adventure",
     "Indie"
    ],
-   "note": null,
+   "note": 80,
    "video": "r9Ri7UeDQnU",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod15a.jpg"
   },
@@ -767,204 +803,6 @@
    "note": null,
    "video": "1Xmyz2tVEjg",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coclf3.jpg"
-  },
-  {
-   "id": 398583,
-   "nom": "Kalanoro",
-   "date": "2026-09-24",
-   "genres": [
-    "Platform",
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "Oi9PTeZB98U",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobys5.jpg"
-  },
-  {
-   "id": 383138,
-   "nom": "Farming Camp",
-   "date": "2026-09-24",
-   "genres": [
-    "Role-playing (RPG)",
-    "Simulator",
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "jDgnYR8F8SY",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coba9t.jpg"
-  },
-  {
-   "id": 345954,
-   "nom": "The Trolley Solution",
-   "date": "2026-09-24",
-   "genres": [
-    "Puzzle",
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "ipsfQDCt2h0",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaf0c.jpg"
-  },
-  {
-   "id": 420803,
-   "nom": "Console Archives: Karate Champ",
-   "date": "2026-09-24",
-   "genres": [
-    "Fighting",
-    "Sport"
-   ],
-   "note": null,
-   "video": "tVQ_DONwhy4",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod2lb.jpg"
-  },
-  {
-   "id": 420561,
-   "nom": "Silent Hill: Townfall - Day One Edition",
-   "date": "2026-09-24",
-   "genres": [
-    "Puzzle",
-    "Adventure"
-   ],
-   "note": null,
-   "video": "bpqRBsXP6M0",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod1is.jpg"
-  },
-  {
-   "id": 214992,
-   "nom": "Armed Fantasia: To the End of the Wilderness",
-   "date": "2026-09-24",
-   "genres": [
-    "Role-playing (RPG)",
-    "Adventure"
-   ],
-   "note": null,
-   "video": "CsfjRgoQeOQ",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co55ei.jpg"
-  },
-  {
-   "id": 226223,
-   "nom": "Ancient Farm",
-   "date": "2026-09-24",
-   "genres": [
-    "Simulator"
-   ],
-   "note": null,
-   "video": "ZX9jHHwki40",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9z3r.jpg"
-  },
-  {
-   "id": 165392,
-   "nom": "Sandwalkers",
-   "date": "2026-09-24",
-   "genres": [
-    "Role-playing (RPG)",
-    "Strategy",
-    "Turn-based strategy (TBS)",
-    "Tactical",
-    "Adventure"
-   ],
-   "note": null,
-   "video": "hnvwAOsDDKQ",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3p5j.jpg"
-  },
-  {
-   "id": 417439,
-   "nom": "Bibi & Tina: Ready, Set, Ride!",
-   "date": "2026-09-24",
-   "genres": [
-    "Racing",
-    "Simulator",
-    "Sport",
-    "Adventure"
-   ],
-   "note": null,
-   "video": "xPkektyh94k",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocvyl.jpg"
-  },
-  {
-   "id": 334351,
-   "nom": "Seafarer: The Ship Sim",
-   "date": "2026-09-24",
-   "genres": [
-    "Simulator"
-   ],
-   "note": null,
-   "video": "tYvQMSqNpkc",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9pg4.jpg"
-  },
-  {
-   "id": 131927,
-   "nom": "Sin: Reloaded",
-   "date": "2026-09-24",
-   "genres": [
-    "Shooter"
-   ],
-   "note": null,
-   "video": "Tw5DMMTfk5o",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coczu2.jpg"
-  },
-  {
-   "id": 408068,
-   "nom": "Qliphah in Providence's Shadow",
-   "date": "2026-09-24",
-   "genres": [
-    "Platform",
-    "Role-playing (RPG)"
-   ],
-   "note": null,
-   "video": "AAVXkuJOHhs",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocbbz.jpg"
-  },
-  {
-   "id": 407405,
-   "nom": "Garfield: Escape from Monday",
-   "date": "2026-09-24",
-   "genres": [
-    "Platform",
-    "Adventure"
-   ],
-   "note": 76,
-   "video": "oqqv_T1gjc0",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocat5.jpg"
-  },
-  {
-   "id": 225582,
-   "nom": "Control Resonant",
-   "date": "2026-09-24",
-   "genres": [
-    "Role-playing (RPG)",
-    "Hack and slash/Beat 'em up",
-    "Adventure"
-   ],
-   "note": 85,
-   "video": "e1_eZyFM5-4",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc64f.jpg"
-  },
-  {
-   "id": 222342,
-   "nom": "Silent Hill: Townfall",
-   "date": "2026-09-24",
-   "genres": [
-    "Puzzle",
-    "Adventure"
-   ],
-   "note": 84,
-   "video": "bpqRBsXP6M0",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc5sw.jpg"
-  },
-  {
-   "id": 394530,
-   "nom": "Gobble",
-   "date": "2026-09-24",
-   "genres": [
-    "Platform"
-   ],
-   "note": null,
-   "video": "xMx5u80XM7E",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobr3j.jpg"
   }
  ]
 }

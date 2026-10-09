@@ -1,6 +1,19 @@
 {
- "maj": "2026-10-08 06:21",
+ "maj": "2026-10-09 06:20",
  "jeux": [
+  {
+   "id": 418327,
+   "nom": "Banchou Tactics: Lion Heart",
+   "date": "2026-10-10",
+   "genres": [
+    "Role-playing (RPG)",
+    "Strategy",
+    "Turn-based strategy (TBS)"
+   ],
+   "note": null,
+   "video": "TNre_1QOyOE",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocx22.jpg"
+  },
   {
    "id": 248673,
    "nom": "Dungeons & Degenerate Gamblers",
@@ -49,6 +62,18 @@
    "note": null,
    "video": "k-dFFv6YO2A",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc93a.jpg"
+  },
+  {
+   "id": 321577,
+   "nom": "Dreadway",
+   "date": "2026-10-08",
+   "genres": [
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "EIfG9EYSfTg",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coatp6.jpg"
   },
   {
    "id": 320726,
@@ -316,6 +341,17 @@
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0h1.jpg"
   },
   {
+   "id": 422202,
+   "nom": "Console Archives: Chack’n Pop",
+   "date": "2026-10-01",
+   "genres": [
+    "Platform"
+   ],
+   "note": null,
+   "video": "89l8WgGEZos",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod2yg.jpg"
+  },
+  {
    "id": 331151,
    "nom": "Storebound",
    "date": "2026-10-01",
@@ -558,19 +594,6 @@
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc9al.jpg"
   },
   {
-   "id": 318956,
-   "nom": "Pao Pao",
-   "date": "2026-09-30",
-   "genres": [
-    "Simulator",
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "ktElMSG92A4",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9gmn.jpg"
-  },
-  {
    "id": 349302,
    "nom": "Solo Leveling: Arise Overdrive",
    "date": "2026-09-30",
@@ -753,56 +776,6 @@
    "note": null,
    "video": null,
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3xxr.jpg"
-  },
-  {
-   "id": 407259,
-   "nom": "Gods With Guns",
-   "date": "2026-09-25",
-   "genres": [
-    "Fighting",
-    "Shooter",
-    "Role-playing (RPG)"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod1xo.jpg"
-  },
-  {
-   "id": 377098,
-   "nom": "Angle of Attack",
-   "date": "2026-09-25",
-   "genres": [
-    "Simulator",
-    "Indie",
-    "Arcade"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coatv1.jpg"
-  },
-  {
-   "id": 356188,
-   "nom": "Agefield High: Rock the School",
-   "date": "2026-09-25",
-   "genres": [
-    "Adventure",
-    "Indie"
-   ],
-   "note": 20,
-   "video": "dGrGeZFEl-M",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa5dh.jpg"
-  },
-  {
-   "id": 408819,
-   "nom": "EA Sports FC 27",
-   "date": "2026-09-25",
-   "genres": [
-    "Simulator",
-    "Sport"
-   ],
-   "note": null,
-   "video": "1Xmyz2tVEjg",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coclf3.jpg"
   }
  ]
 }

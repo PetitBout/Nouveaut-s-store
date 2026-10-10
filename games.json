@@ -1,5 +1,5 @@
 {
- "maj": "2026-10-09 06:20",
+ "maj": "2026-10-10 06:18",
  "jeux": [
   {
    "id": 418327,
@@ -86,7 +86,7 @@
     "Indie"
    ],
    "note": null,
-   "video": "Xh7Z4gNFlPA",
+   "video": "1ADA3Ntrr7U",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8z8a.jpg"
   },
   {
@@ -249,7 +249,7 @@
     "Adventure",
     "Indie"
    ],
-   "note": null,
+   "note": 80,
    "video": "U49-3_zprNQ",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc78v.jpg"
   },

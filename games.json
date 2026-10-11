@@ -1,6 +1,56 @@
 {
- "maj": "2026-10-10 06:18",
+ "maj": "2026-10-11 06:19",
  "jeux": [
+  {
+   "id": 303133,
+   "nom": "Alpha Nomos",
+   "date": "2026-10-12",
+   "genres": [
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "7Lv0I9-ytdc",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc1qy.jpg"
+  },
+  {
+   "id": 257932,
+   "nom": "Time To Wake Up",
+   "date": "2026-10-12",
+   "genres": [
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "39XlRd3Cv_k",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobk1q.jpg"
+  },
+  {
+   "id": 347850,
+   "nom": "Colorbound",
+   "date": "2026-10-12",
+   "genres": [
+    "Platform",
+    "Puzzle",
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "noq0c4YwqWY",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc6fl.jpg"
+  },
+  {
+   "id": 346482,
+   "nom": "Hubert",
+   "date": "2026-10-12",
+   "genres": [
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "sPPjyo53Khs",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocu2t.jpg"
+  },
   {
    "id": 418327,
    "nom": "Banchou Tactics: Lion Heart",
@@ -13,6 +63,17 @@
    "note": null,
    "video": "TNre_1QOyOE",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocx22.jpg"
+  },
+  {
+   "id": 262790,
+   "nom": "My Lovey-Dovey Demon",
+   "date": "2026-10-09",
+   "genres": [
+    "Visual Novel"
+   ],
+   "note": null,
+   "video": "wvYiQacow4I",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co88bk.jpg"
   },
   {
    "id": 248673,
@@ -401,6 +462,19 @@
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod1ny.jpg"
   },
   {
+   "id": 387297,
+   "nom": "Toycrafter",
+   "date": "2026-10-01",
+   "genres": [
+    "Simulator",
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "mNtjTn_dT34",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobdaf.jpg"
+  },
+  {
    "id": 201752,
    "nom": "Antonblast",
    "date": "2026-10-01",
@@ -500,19 +574,6 @@
    "note": 80,
    "video": "r9Ri7UeDQnU",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod15a.jpg"
-  },
-  {
-   "id": 289433,
-   "nom": "Don't Fret",
-   "date": "2026-10-01",
-   "genres": [
-    "Music",
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "KJ1zRWHP78A",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc6xj.jpg"
   },
   {
    "id": 347637,
@@ -762,20 +823,6 @@
    "note": 90,
    "video": "ag7Ss-Hxdw0",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8yiy.jpg"
-  },
-  {
-   "id": 54925,
-   "nom": "Guts",
-   "date": "2026-09-27",
-   "genres": [
-    "Fighting",
-    "Sport",
-    "Strategy",
-    "Indie"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3xxr.jpg"
   }
  ]
 }

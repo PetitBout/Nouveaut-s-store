@@ -1,6 +1,40 @@
 {
- "maj": "2026-10-11 06:19",
+ "maj": "2026-10-12 06:23",
  "jeux": [
+  {
+   "id": 409690,
+   "nom": "Just Dance: Decades of Hits",
+   "date": "2026-10-13",
+   "genres": [],
+   "note": null,
+   "video": "WaemsD8T1kA",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocjfj.jpg"
+  },
+  {
+   "id": 361833,
+   "nom": "Valor Mortis",
+   "date": "2026-10-13",
+   "genres": [
+    "Shooter",
+    "Role-playing (RPG)",
+    "Adventure"
+   ],
+   "note": null,
+   "video": "cIF7cL0KRDU",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaazc.jpg"
+  },
+  {
+   "id": 402959,
+   "nom": "Planet Zoo 2",
+   "date": "2026-10-13",
+   "genres": [
+    "Simulator",
+    "Strategy"
+   ],
+   "note": null,
+   "video": "zLOTKPLpemA",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc5at.jpg"
+  },
   {
    "id": 303133,
    "nom": "Alpha Nomos",
@@ -544,7 +578,7 @@
     "Role-playing (RPG)",
     "Adventure"
    ],
-   "note": 96,
+   "note": 94,
    "video": "2bQrrWCRkMY",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocofa.jpg"
   },
@@ -808,21 +842,6 @@
    "note": 80,
    "video": "WD9GtlgU8_c",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc75p.jpg"
-  },
-  {
-   "id": 310904,
-   "nom": "Keep Driving",
-   "date": "2026-09-28",
-   "genres": [
-    "Role-playing (RPG)",
-    "Simulator",
-    "Turn-based strategy (TBS)",
-    "Adventure",
-    "Indie"
-   ],
-   "note": 90,
-   "video": "ag7Ss-Hxdw0",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8yiy.jpg"
   }
  ]
 }

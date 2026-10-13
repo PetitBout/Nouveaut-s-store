@@ -1,6 +1,58 @@
 {
- "maj": "2026-10-12 06:23",
+ "maj": "2026-10-13 06:22",
  "jeux": [
+  {
+   "id": 278824,
+   "nom": "The Witch's Bakery",
+   "date": "2026-10-14",
+   "genres": [
+    "Puzzle",
+    "Role-playing (RPG)",
+    "Simulator",
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "zQsTpO9LKVo",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8tks.jpg"
+  },
+  {
+   "id": 422291,
+   "nom": "My Recycling Center 2",
+   "date": "2026-10-14",
+   "genres": [
+    "Simulator",
+    "Indie"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod33z.jpg"
+  },
+  {
+   "id": 335466,
+   "nom": "Shockwave Triggers",
+   "date": "2026-10-14",
+   "genres": [
+    "Shooter",
+    "Indie",
+    "Arcade"
+   ],
+   "note": null,
+   "video": "NlrCMBXgWho",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9j4g.jpg"
+  },
+  {
+   "id": 344669,
+   "nom": "Warhammer 40,000: Boltgun 2",
+   "date": "2026-10-14",
+   "genres": [
+    "Shooter",
+    "Indie"
+   ],
+   "note": null,
+   "video": "rG19wrCGR5g",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9uam.jpg"
+  },
   {
    "id": 409690,
    "nom": "Just Dance: Decades of Hits",
@@ -88,7 +140,7 @@
   {
    "id": 418327,
    "nom": "Banchou Tactics: Lion Heart",
-   "date": "2026-10-10",
+   "date": "2026-10-09",
    "genres": [
     "Role-playing (RPG)",
     "Strategy",
@@ -96,7 +148,7 @@
    ],
    "note": null,
    "video": "TNre_1QOyOE",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocx22.jpg"
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod3xp.jpg"
   },
   {
    "id": 262790,
@@ -221,7 +273,7 @@
    ],
    "note": null,
    "video": "SNdJC4LupW8",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9g3f.jpg"
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod3qs.jpg"
   },
   {
    "id": 353943,
@@ -404,6 +456,7 @@
    "date": "2026-10-02",
    "genres": [
     "Platform",
+    "Adventure",
     "Indie"
    ],
    "note": null,
@@ -765,83 +818,6 @@
    "note": null,
    "video": "EHkAKLQpJZk",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa2m4.jpg"
-  },
-  {
-   "id": 207595,
-   "nom": "Neighbors: Suburban Warfare",
-   "date": "2026-09-29",
-   "genres": [
-    "Shooter",
-    "Indie"
-   ],
-   "note": null,
-   "video": "S_bNuoVZm7U",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8wvn.jpg"
-  },
-  {
-   "id": 321243,
-   "nom": "Blades & Battles",
-   "date": "2026-09-29",
-   "genres": [
-    "Hack and slash/Beat 'em up",
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "39vrchMLAx4",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9010.jpg"
-  },
-  {
-   "id": 344466,
-   "nom": "Transport Fever 3",
-   "date": "2026-09-29",
-   "genres": [
-    "Simulator",
-    "Strategy"
-   ],
-   "note": null,
-   "video": "HcI60a6PbdI",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9u3u.jpg"
-  },
-  {
-   "id": 383019,
-   "nom": "Way of the Hunter 2",
-   "date": "2026-09-29",
-   "genres": [
-    "Shooter",
-    "Simulator",
-    "Adventure"
-   ],
-   "note": null,
-   "video": "l0hkJ6naYQ4",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod19d.jpg"
-  },
-  {
-   "id": 325182,
-   "nom": "Toem 2",
-   "date": "2026-09-29",
-   "genres": [
-    "Platform",
-    "Puzzle",
-    "Adventure",
-    "Indie"
-   ],
-   "note": 73,
-   "video": "ze4DSeIhYAQ",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocn4a.jpg"
-  },
-  {
-   "id": 395525,
-   "nom": "Minecraft Dungeons II",
-   "date": "2026-09-29",
-   "genres": [
-    "Role-playing (RPG)",
-    "Hack and slash/Beat 'em up",
-    "Adventure"
-   ],
-   "note": 80,
-   "video": "WD9GtlgU8_c",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc75p.jpg"
   }
  ]
 }

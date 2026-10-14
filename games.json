@@ -1,6 +1,182 @@
 {
- "maj": "2026-10-13 06:22",
+ "maj": "2026-10-14 06:32",
  "jeux": [
+  {
+   "id": 423091,
+   "nom": "Control Resonant: Special Edition",
+   "date": "2026-10-15",
+   "genres": [
+    "Role-playing (RPG)",
+    "Hack and slash/Beat 'em up",
+    "Adventure"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod4bt.jpg"
+  },
+  {
+   "id": 58718,
+   "nom": "Desolus",
+   "date": "2026-10-15",
+   "genres": [
+    "Puzzle",
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "q450Objbycw",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8pt9.jpg"
+  },
+  {
+   "id": 411997,
+   "nom": "Wand & Order: Tidy up the magic shop!",
+   "date": "2026-10-15",
+   "genres": [
+    "Puzzle",
+    "Simulator",
+    "Indie"
+   ],
+   "note": null,
+   "video": "MkBnMC3vs1Q",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod0rc.jpg"
+  },
+  {
+   "id": 421585,
+   "nom": "Wolfsschanze: Operation Götterdämmerung",
+   "date": "2026-10-15",
+   "genres": [
+    "Shooter"
+   ],
+   "note": null,
+   "video": "jAcRzF51n1Q",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod20u.jpg"
+  },
+  {
+   "id": 346386,
+   "nom": "Creepy Tale: Snow Child",
+   "date": "2026-10-15",
+   "genres": [
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "OIRz3RqZRfQ",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4cu.jpg"
+  },
+  {
+   "id": 418329,
+   "nom": "Bluey's Happy Snaps: Deluxe Edition",
+   "date": "2026-10-15",
+   "genres": [],
+   "note": null,
+   "video": null,
+   "affiche": null
+  },
+  {
+   "id": 418336,
+   "nom": "Ratatan: Digital Deluxe Edition",
+   "date": "2026-10-15",
+   "genres": [
+    "Music",
+    "Role-playing (RPG)",
+    "Strategy",
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocy3p.jpg"
+  },
+  {
+   "id": 344588,
+   "nom": "Chained Beasts",
+   "date": "2026-10-15",
+   "genres": [
+    "Hack and slash/Beat 'em up",
+    "Indie"
+   ],
+   "note": null,
+   "video": "zBRNt-cRvS0",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod2kz.jpg"
+  },
+  {
+   "id": 396024,
+   "nom": "Bluey's Happy Snaps",
+   "date": "2026-10-15",
+   "genres": [
+    "Puzzle",
+    "Adventure"
+   ],
+   "note": 81,
+   "video": "l-k93PJGj3E",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobtwy.jpg"
+  },
+  {
+   "id": 400976,
+   "nom": "Harvest Moon: Echoes of Teradea",
+   "date": "2026-10-15",
+   "genres": [
+    "Role-playing (RPG)",
+    "Simulator",
+    "Adventure"
+   ],
+   "note": null,
+   "video": "E9DkUhHJpjE",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocxj5.jpg"
+  },
+  {
+   "id": 259339,
+   "nom": "Ratatan",
+   "date": "2026-10-15",
+   "genres": [
+    "Music",
+    "Role-playing (RPG)",
+    "Strategy",
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "okG0R8r_G8Q",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob22x.jpg"
+  },
+  {
+   "id": 248643,
+   "nom": "Enshrouded",
+   "date": "2026-10-15",
+   "genres": [
+    "Role-playing (RPG)",
+    "Adventure"
+   ],
+   "note": null,
+   "video": "qygf4aICf34",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod12a.jpg"
+  },
+  {
+   "id": 389434,
+   "nom": "Castlevania: Belmont's Curse",
+   "date": "2026-10-15",
+   "genres": [
+    "Platform",
+    "Role-playing (RPG)",
+    "Hack and slash/Beat 'em up",
+    "Adventure"
+   ],
+   "note": 80,
+   "video": "X3-SJLWzjmE",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocrky.jpg"
+  },
+  {
+   "id": 404035,
+   "nom": "Toy Story 3: Complete Edition",
+   "date": "2026-10-15",
+   "genres": [
+    "Platform",
+    "Adventure"
+   ],
+   "note": null,
+   "video": "Kgp9iOHxrFw",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc5v1.jpg"
+  },
   {
    "id": 278824,
    "nom": "The Witch's Bakery",
@@ -71,7 +247,7 @@
     "Role-playing (RPG)",
     "Adventure"
    ],
-   "note": null,
+   "note": 85,
    "video": "cIF7cL0KRDU",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaazc.jpg"
   },
@@ -83,7 +259,7 @@
     "Simulator",
     "Strategy"
    ],
-   "note": null,
+   "note": 60,
    "video": "zLOTKPLpemA",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc5at.jpg"
   },
@@ -151,6 +327,20 @@
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod3xp.jpg"
   },
   {
+   "id": 202786,
+   "nom": "Banchou Tactics",
+   "date": "2026-10-09",
+   "genres": [
+    "Role-playing (RPG)",
+    "Strategy",
+    "Turn-based strategy (TBS)",
+    "Arcade"
+   ],
+   "note": null,
+   "video": "DiwzMEF8TCo",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4sk0.jpg"
+  },
+  {
    "id": 262790,
    "nom": "My Lovey-Dovey Demon",
    "date": "2026-10-09",
@@ -173,6 +363,18 @@
    "note": 76,
    "video": "Q3IzShOv9Fk",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8l2d.jpg"
+  },
+  {
+   "id": 412345,
+   "nom": "Horse Club Ride West",
+   "date": "2026-10-09",
+   "genres": [
+    "Simulator",
+    "Adventure"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod3xc.jpg"
   },
   {
    "id": 381154,
@@ -211,10 +413,48 @@
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc93a.jpg"
   },
   {
+   "id": 422766,
+   "nom": "Arcade Archives 2: Fighting Golf",
+   "date": "2026-10-08",
+   "genres": [
+    "Sport"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod3w3.jpg"
+  },
+  {
+   "id": 11492,
+   "nom": "Mafia III",
+   "date": "2026-10-08",
+   "genres": [
+    "Shooter",
+    "Racing",
+    "Adventure"
+   ],
+   "note": 68,
+   "video": "yeiyWVgDZfY",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2mll.jpg"
+  },
+  {
+   "id": 125374,
+   "nom": "Ultimate Admiral: Dreadnoughts",
+   "date": "2026-10-08",
+   "genres": [
+    "Simulator",
+    "Strategy",
+    "Indie"
+   ],
+   "note": null,
+   "video": "ws7uRKuWCyo",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xr8.jpg"
+  },
+  {
    "id": 321577,
    "nom": "Dreadway",
    "date": "2026-10-08",
    "genres": [
+    "Shooter",
     "Adventure",
     "Indie"
    ],
@@ -227,6 +467,7 @@
    "nom": "Deck of Haunts",
    "date": "2026-10-08",
    "genres": [
+    "Puzzle",
     "Simulator",
     "Strategy",
     "Adventure",
@@ -484,9 +725,21 @@
     "Simulator",
     "Arcade"
    ],
-   "note": 90,
+   "note": 91,
    "video": "OeKsDHjPJiw",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0h1.jpg"
+  },
+  {
+   "id": 422769,
+   "nom": "Arcade Archives 2: Balloon Bomber",
+   "date": "2026-10-01",
+   "genres": [
+    "Shooter",
+    "Arcade"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod3w8.jpg"
   },
   {
    "id": 422202,
@@ -686,138 +939,6 @@
    "note": null,
    "video": "CPBxiZlyk0o",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coajzb.jpg"
-  },
-  {
-   "id": 226868,
-   "nom": "King's Blade",
-   "date": "2026-09-30",
-   "genres": [
-    "Hack and slash/Beat 'em up",
-    "Adventure",
-    "Indie",
-    "Arcade"
-   ],
-   "note": null,
-   "video": "I28OzDWy8eI",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7hth.jpg"
-  },
-  {
-   "id": 203242,
-   "nom": "Voltaire: The Vegan Vampire",
-   "date": "2026-09-30",
-   "genres": [
-    "Role-playing (RPG)",
-    "Simulator",
-    "Adventure",
-    "Indie"
-   ],
-   "note": 60,
-   "video": "vB_3Ak73GvY",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co62tr.jpg"
-  },
-  {
-   "id": 201417,
-   "nom": "Murders on the Yangtze River",
-   "date": "2026-09-30",
-   "genres": [
-    "Adventure",
-    "Indie",
-    "Visual Novel"
-   ],
-   "note": null,
-   "video": "3ZnBu-QsWro",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coal0z.jpg"
-  },
-  {
-   "id": 340570,
-   "nom": "Nomad Drive",
-   "date": "2026-09-30",
-   "genres": [
-    "Simulator",
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "7O6W5ldTg2I",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc9al.jpg"
-  },
-  {
-   "id": 349302,
-   "nom": "Solo Leveling: Arise Overdrive",
-   "date": "2026-09-30",
-   "genres": [
-    "Role-playing (RPG)"
-   ],
-   "note": null,
-   "video": "XjJPq-3Ltak",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coakb8.jpg"
-  },
-  {
-   "id": 287707,
-   "nom": "Whirlight: No Time To Trip",
-   "date": "2026-09-30",
-   "genres": [
-    "Point-and-click",
-    "Puzzle",
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "ax11NPeMmBg",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobh9c.jpg"
-  },
-  {
-   "id": 387070,
-   "nom": "Super Battle Golf",
-   "date": "2026-09-30",
-   "genres": [
-    "Sport",
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "48COlKkM2aE",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobcv5.jpg"
-  },
-  {
-   "id": 347665,
-   "nom": "Last Flag",
-   "date": "2026-09-30",
-   "genres": [
-    "Shooter",
-    "MOBA"
-   ],
-   "note": null,
-   "video": "v4YiTj82Hb8",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobtsb.jpg"
-  },
-  {
-   "id": 309518,
-   "nom": "Lifted",
-   "date": "2026-09-30",
-   "genres": [
-    "Platform",
-    "Puzzle",
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "dxHYIWSY3Z4",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobrwj.jpg"
-  },
-  {
-   "id": 289983,
-   "nom": "The Midnight Walkers",
-   "date": "2026-09-30",
-   "genres": [
-    "Shooter",
-    "Role-playing (RPG)",
-    "Hack and slash/Beat 'em up",
-    "Indie"
-   ],
-   "note": null,
-   "video": "EHkAKLQpJZk",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa2m4.jpg"
   }
  ]
 }

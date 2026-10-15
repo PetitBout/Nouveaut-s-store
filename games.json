@@ -1,6 +1,64 @@
 {
- "maj": "2026-10-14 06:32",
+ "maj": "2026-10-15 06:32",
  "jeux": [
+  {
+   "id": 403310,
+   "nom": "Call of Duty: Modern Warfare 4",
+   "date": "2026-10-16",
+   "genres": [
+    "Shooter"
+   ],
+   "note": null,
+   "video": "jLbst85USN8",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4mu.jpg"
+  },
+  {
+   "id": 415399,
+   "nom": "Call of Duty: Modern Warfare 4 - Vault Edition",
+   "date": "2026-10-16",
+   "genres": [
+    "Shooter"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coctdd.jpg"
+  },
+  {
+   "id": 405458,
+   "nom": "Tales of Eternia: Remastered",
+   "date": "2026-10-16",
+   "genres": [
+    "Role-playing (RPG)",
+    "Adventure"
+   ],
+   "note": 75,
+   "video": "n0Trr5yLK1A",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc7n7.jpg"
+  },
+  {
+   "id": 216692,
+   "nom": "Tenebris Somnia",
+   "date": "2026-10-16",
+   "genres": [
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "zTFdnUzMU84",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocur0.jpg"
+  },
+  {
+   "id": 423652,
+   "nom": "Arcade Archives 2: Stinger",
+   "date": "2026-10-15",
+   "genres": [
+    "Shooter",
+    "Arcade"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod54j.jpg"
+  },
   {
    "id": 423091,
    "nom": "Control Resonant: Special Edition",
@@ -161,9 +219,9 @@
     "Hack and slash/Beat 'em up",
     "Adventure"
    ],
-   "note": 80,
+   "note": 84,
    "video": "X3-SJLWzjmE",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocrky.jpg"
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod4r0.jpg"
   },
   {
    "id": 404035,
@@ -227,7 +285,7 @@
    ],
    "note": null,
    "video": "rG19wrCGR5g",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9uam.jpg"
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod57o.jpg"
   },
   {
    "id": 409690,
@@ -728,217 +786,6 @@
    "note": 91,
    "video": "OeKsDHjPJiw",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0h1.jpg"
-  },
-  {
-   "id": 422769,
-   "nom": "Arcade Archives 2: Balloon Bomber",
-   "date": "2026-10-01",
-   "genres": [
-    "Shooter",
-    "Arcade"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod3w8.jpg"
-  },
-  {
-   "id": 422202,
-   "nom": "Console Archives: Chack’n Pop",
-   "date": "2026-10-01",
-   "genres": [
-    "Platform"
-   ],
-   "note": null,
-   "video": "89l8WgGEZos",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod2yg.jpg"
-  },
-  {
-   "id": 331151,
-   "nom": "Storebound",
-   "date": "2026-10-01",
-   "genres": [
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "sRYeDuCPTJI",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocd8d.jpg"
-  },
-  {
-   "id": 421093,
-   "nom": "Arcade Archives 2: Crazy Balloon",
-   "date": "2026-10-01",
-   "genres": [
-    "Arcade"
-   ],
-   "note": null,
-   "video": "ty9ZjI81BxU",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod17d.jpg"
-  },
-  {
-   "id": 152766,
-   "nom": "Anvil Saga",
-   "date": "2026-10-01",
-   "genres": [
-    "Role-playing (RPG)",
-    "Simulator",
-    "Indie"
-   ],
-   "note": null,
-   "video": "mvOFHLH3m94",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7979.jpg"
-  },
-  {
-   "id": 417888,
-   "nom": "Seek",
-   "date": "2026-10-01",
-   "genres": [
-    "Puzzle",
-    "Role-playing (RPG)",
-    "Adventure"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod1ny.jpg"
-  },
-  {
-   "id": 387297,
-   "nom": "Toycrafter",
-   "date": "2026-10-01",
-   "genres": [
-    "Simulator",
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "mNtjTn_dT34",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobdaf.jpg"
-  },
-  {
-   "id": 201752,
-   "nom": "Antonblast",
-   "date": "2026-10-01",
-   "genres": [
-    "Platform",
-    "Puzzle",
-    "Adventure",
-    "Indie"
-   ],
-   "note": 95,
-   "video": "GEuT3k1Y2ts",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8txh.jpg"
-  },
-  {
-   "id": 132711,
-   "nom": "Heartworm",
-   "date": "2026-10-01",
-   "genres": [
-    "Shooter",
-    "Puzzle",
-    "Indie"
-   ],
-   "note": null,
-   "video": "4iupjtO6g60",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co79lv.jpg"
-  },
-  {
-   "id": 418333,
-   "nom": "Dynasty Warriors 3: Complete Edition Remastered - Digital Deluxe Edition",
-   "date": "2026-10-01",
-   "genres": [],
-   "note": null,
-   "video": null,
-   "affiche": null
-  },
-  {
-   "id": 199668,
-   "nom": "Moros Protocol",
-   "date": "2026-10-01",
-   "genres": [
-    "Shooter",
-    "Indie"
-   ],
-   "note": null,
-   "video": "As49-2YisCY",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9a41.jpg"
-  },
-  {
-   "id": 416447,
-   "nom": "Puckoff: Reloaded",
-   "date": "2026-10-01",
-   "genres": [
-    "Fighting",
-    "Role-playing (RPG)",
-    "Sport",
-    "Visual Novel"
-   ],
-   "note": null,
-   "video": "LfrvKyAnnX0",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocu72.jpg"
-  },
-  {
-   "id": 413275,
-   "nom": "Ghost of Yotei: Complete Edition",
-   "date": "2026-10-01",
-   "genres": [
-    "Role-playing (RPG)",
-    "Adventure"
-   ],
-   "note": 94,
-   "video": "2bQrrWCRkMY",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocofa.jpg"
-  },
-  {
-   "id": 410677,
-   "nom": "MXGP 26: The Official Game",
-   "date": "2026-10-01",
-   "genres": [
-    "Racing",
-    "Simulator",
-    "Sport"
-   ],
-   "note": null,
-   "video": "PJLNbiRJsZg",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocjkc.jpg"
-  },
-  {
-   "id": 231488,
-   "nom": "Retrospace",
-   "date": "2026-10-01",
-   "genres": [
-    "Shooter",
-    "Simulator",
-    "Adventure",
-    "Indie"
-   ],
-   "note": 80,
-   "video": "r9Ri7UeDQnU",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod15a.jpg"
-  },
-  {
-   "id": 347637,
-   "nom": "End of Abyss",
-   "date": "2026-10-01",
-   "genres": [
-    "Adventure"
-   ],
-   "note": null,
-   "video": "eot8qV7CuTA",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocrau.jpg"
-  },
-  {
-   "id": 369991,
-   "nom": "Dynasty Warriors 3: Complete Edition Remastered",
-   "date": "2026-10-01",
-   "genres": [
-    "Role-playing (RPG)",
-    "Strategy",
-    "Tactical",
-    "Hack and slash/Beat 'em up"
-   ],
-   "note": null,
-   "video": "CPBxiZlyk0o",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coajzb.jpg"
   }
  ]
 }

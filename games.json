@@ -1,5 +1,5 @@
 {
- "maj": "2026-10-15 06:32",
+ "maj": "2026-10-16 06:30",
  "jeux": [
   {
    "id": 403310,
@@ -46,6 +46,32 @@
    "note": null,
    "video": "zTFdnUzMU84",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocur0.jpg"
+  },
+  {
+   "id": 423860,
+   "nom": "Castlevania: Belmont's Curse: Night One Edition",
+   "date": "2026-10-15",
+   "genres": [
+    "Platform",
+    "Role-playing (RPG)",
+    "Hack and slash/Beat 'em up",
+    "Adventure"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod5ev.jpg"
+  },
+  {
+   "id": 423761,
+   "nom": "Arcade Archives 2: Thundercade",
+   "date": "2026-10-15",
+   "genres": [
+    "Shooter",
+    "Arcade"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod5ad.jpg"
   },
   {
    "id": 423652,
@@ -178,7 +204,7 @@
     "Simulator",
     "Adventure"
    ],
-   "note": null,
+   "note": 83,
    "video": "E9DkUhHJpjE",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocxj5.jpg"
   },
@@ -221,7 +247,7 @@
    ],
    "note": 84,
    "video": "X3-SJLWzjmE",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod4r0.jpg"
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod5fk.jpg"
   },
   {
    "id": 404035,
@@ -234,6 +260,20 @@
    "note": null,
    "video": "Kgp9iOHxrFw",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc5v1.jpg"
+  },
+  {
+   "id": 274785,
+   "nom": "YAR: Forgotten Throne",
+   "date": "2026-10-14",
+   "genres": [
+    "Role-playing (RPG)",
+    "Simulator",
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobwmx.jpg"
   },
   {
    "id": 278824,
@@ -357,7 +397,7 @@
    ],
    "note": null,
    "video": "noq0c4YwqWY",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc6fl.jpg"
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod5it.jpg"
   },
   {
    "id": 346482,
@@ -469,6 +509,20 @@
    "note": null,
    "video": "k-dFFv6YO2A",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc93a.jpg"
+  },
+  {
+   "id": 333412,
+   "nom": "Hidden Dogs",
+   "date": "2026-10-08",
+   "genres": [
+    "Point-and-click",
+    "Puzzle",
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "w5ywXi6BVrI",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocssk.jpg"
   },
   {
    "id": 422766,
@@ -718,7 +772,7 @@
    "genres": [
     "Shooter"
    ],
-   "note": 90,
+   "note": 89,
    "video": "VQ4WnXdarx4",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co68ah.jpg"
   },
@@ -734,58 +788,6 @@
    "note": 88,
    "video": "B2g95FIBP04",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobihx.jpg"
-  },
-  {
-   "id": 411821,
-   "nom": "Monster Nursery",
-   "date": "2026-10-02",
-   "genres": [
-    "Music",
-    "Puzzle",
-    "Simulator",
-    "Indie"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocmdp.jpg"
-  },
-  {
-   "id": 342222,
-   "nom": "Mister Scary",
-   "date": "2026-10-02",
-   "genres": [
-    "Platform",
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "6QlEDyY55_Q",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob5gm.jpg"
-  },
-  {
-   "id": 14754,
-   "nom": "Ace Combat Zero: The Belkan War",
-   "date": "2026-10-02",
-   "genres": [
-    "Shooter",
-    "Simulator"
-   ],
-   "note": 75,
-   "video": "F15NR4KtnkU",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6o8z.jpg"
-  },
-  {
-   "id": 381247,
-   "nom": "Ace Combat 8: Wings of Theve",
-   "date": "2026-10-02",
-   "genres": [
-    "Shooter",
-    "Simulator",
-    "Arcade"
-   ],
-   "note": 91,
-   "video": "OeKsDHjPJiw",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0h1.jpg"
   }
  ]
 }

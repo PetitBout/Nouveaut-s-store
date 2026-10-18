@@ -1,6 +1,31 @@
 {
- "maj": "2026-10-17 06:27",
+ "maj": "2026-10-18 06:27",
  "jeux": [
+  {
+   "id": 318505,
+   "nom": "DuneCrawl",
+   "date": "2026-10-19",
+   "genres": [
+    "Role-playing (RPG)",
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "-y7rI-sU4nc",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coawgh.jpg"
+  },
+  {
+   "id": 17131,
+   "nom": "BeamNG.drive",
+   "date": "2026-10-19",
+   "genres": [
+    "Racing",
+    "Simulator"
+   ],
+   "note": null,
+   "video": "4ms-LHkN6YQ",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1sym.jpg"
+  },
   {
    "id": 216692,
    "nom": "Tenebris Somnia",

@@ -1,6 +1,44 @@
 {
- "maj": "2026-10-18 06:27",
+ "maj": "2026-10-19 06:37",
  "jeux": [
+  {
+   "id": 416083,
+   "nom": "Dino Crisis 2",
+   "date": "2026-10-20",
+   "genres": [
+    "Shooter",
+    "Adventure"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocthm.jpg"
+  },
+  {
+   "id": 342011,
+   "nom": "Mycopunk",
+   "date": "2026-10-20",
+   "genres": [
+    "Shooter",
+    "Tactical",
+    "Indie"
+   ],
+   "note": 79,
+   "video": "1r1vMCuscdA",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9qrc.jpg"
+  },
+  {
+   "id": 393015,
+   "nom": "We Were Here Tomorrow",
+   "date": "2026-10-20",
+   "genres": [
+    "Puzzle",
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "VSLMgO3ypD0",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobwi7.jpg"
+  },
   {
    "id": 318505,
    "nom": "DuneCrawl",
@@ -54,6 +92,17 @@
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4cnl.jpg"
   },
   {
+   "id": 423989,
+   "nom": "Moto X",
+   "date": "2026-10-16",
+   "genres": [
+    "Racing"
+   ],
+   "note": null,
+   "video": "sNgnYFy8j8E",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod5o2.jpg"
+  },
+  {
    "id": 386835,
    "nom": "Heavy Metal Death Can",
    "date": "2026-10-16",
@@ -98,6 +147,19 @@
    "note": 75,
    "video": "n0Trr5yLK1A",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc7n7.jpg"
+  },
+  {
+   "id": 411997,
+   "nom": "Wand & Order: Tidy Up the Magic Shop!",
+   "date": "2026-10-15",
+   "genres": [
+    "Puzzle",
+    "Simulator",
+    "Indie"
+   ],
+   "note": null,
+   "video": "MkBnMC3vs1Q",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod0rc.jpg"
   },
   {
    "id": 8794,
@@ -202,19 +264,6 @@
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8pt9.jpg"
   },
   {
-   "id": 411997,
-   "nom": "Wand & Order: Tidy up the magic shop!",
-   "date": "2026-10-15",
-   "genres": [
-    "Puzzle",
-    "Simulator",
-    "Indie"
-   ],
-   "note": null,
-   "video": "MkBnMC3vs1Q",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod0rc.jpg"
-  },
-  {
    "id": 421585,
    "nom": "Wolfsschanze: Operation Götterdämmerung",
    "date": "2026-10-15",
@@ -309,7 +358,7 @@
     "Adventure",
     "Indie"
    ],
-   "note": null,
+   "note": 75,
    "video": "okG0R8r_G8Q",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob22x.jpg"
   },

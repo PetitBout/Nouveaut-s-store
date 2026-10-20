@@ -1,6 +1,44 @@
 {
- "maj": "2026-10-19 06:37",
+ "maj": "2026-10-20 06:31",
  "jeux": [
+  {
+   "id": 362114,
+   "nom": "The Killing Stone",
+   "date": "2026-10-21",
+   "genres": [
+    "Strategy",
+    "Indie",
+    "Card & Board Game"
+   ],
+   "note": null,
+   "video": "T9jhMvdht9c",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coab99.jpg"
+  },
+  {
+   "id": 239786,
+   "nom": "Hail to the Rainbow",
+   "date": "2026-10-21",
+   "genres": [
+    "Puzzle",
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "VS3YyLLb_Sg",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod2tg.jpg"
+  },
+  {
+   "id": 381212,
+   "nom": "Stupid Never Dies",
+   "date": "2026-10-21",
+   "genres": [
+    "Role-playing (RPG)",
+    "Adventure"
+   ],
+   "note": null,
+   "video": "DFshrV9nHqc",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc8br.jpg"
+  },
   {
    "id": 416083,
    "nom": "Dino Crisis 2",
@@ -63,6 +101,20 @@
    "note": null,
    "video": "4ms-LHkN6YQ",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1sym.jpg"
+  },
+  {
+   "id": 349004,
+   "nom": "Island Market Simulator",
+   "date": "2026-10-18",
+   "genres": [
+    "Role-playing (RPG)",
+    "Simulator",
+    "Strategy",
+    "Indie"
+   ],
+   "note": null,
+   "video": "TIAKegcybfE",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobolp.jpg"
   },
   {
    "id": 216692,
@@ -244,7 +296,8 @@
    "date": "2026-10-15",
    "genres": [
     "Puzzle",
-    "Indie"
+    "Indie",
+    "Arcade"
    ],
    "note": null,
    "video": null,
@@ -405,6 +458,7 @@
    "nom": "Thanks, Light.",
    "date": "2026-10-14",
    "genres": [
+    "Puzzle",
     "Strategy",
     "Adventure",
     "Indie"
@@ -953,19 +1007,6 @@
    "note": 89,
    "video": "VQ4WnXdarx4",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co68ah.jpg"
-  },
-  {
-   "id": 381248,
-   "nom": "Star Wars: Galactic Racer",
-   "date": "2026-10-06",
-   "genres": [
-    "Racing",
-    "Sport",
-    "Adventure"
-   ],
-   "note": 88,
-   "video": "B2g95FIBP04",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobihx.jpg"
   }
  ]
 }

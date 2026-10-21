@@ -1,6 +1,80 @@
 {
- "maj": "2026-10-20 06:31",
+ "maj": "2026-10-21 06:33",
  "jeux": [
+  {
+   "id": 349524,
+   "nom": "Peak",
+   "date": "2026-10-22",
+   "genres": [
+    "Platform",
+    "Adventure",
+    "Indie"
+   ],
+   "note": 86,
+   "video": "rVcAdSPO1YA",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocokj.jpg"
+  },
+  {
+   "id": 190169,
+   "nom": "Moadra",
+   "date": "2026-10-22",
+   "genres": [
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "zgtPSK8D_wo",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5lgk.jpg"
+  },
+  {
+   "id": 351210,
+   "nom": "Demons' Night Fever",
+   "date": "2026-10-22",
+   "genres": [
+    "Role-playing (RPG)",
+    "Simulator",
+    "Strategy"
+   ],
+   "note": null,
+   "video": "bv5WxE-kLGM",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocb9w.jpg"
+  },
+  {
+   "id": 410844,
+   "nom": "Final Fantasy Resonance: Digital Deluxe Edition",
+   "date": "2026-10-22",
+   "genres": [],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cock54.jpg"
+  },
+  {
+   "id": 200544,
+   "nom": "Back to the Dawn",
+   "date": "2026-10-22",
+   "genres": [
+    "Role-playing (RPG)",
+    "Simulator",
+    "Strategy",
+    "Adventure",
+    "Indie"
+   ],
+   "note": 85,
+   "video": "htJudbXeQhE",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa4pz.jpg"
+  },
+  {
+   "id": 405454,
+   "nom": "Final Fantasy Resonance",
+   "date": "2026-10-22",
+   "genres": [
+    "Role-playing (RPG)",
+    "Adventure"
+   ],
+   "note": 89,
+   "video": "ftCvnEE6rfI",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc7q4.jpg"
+  },
   {
    "id": 362114,
    "nom": "The Killing Stone",
@@ -35,7 +109,7 @@
     "Role-playing (RPG)",
     "Adventure"
    ],
-   "note": null,
+   "note": 70,
    "video": "DFshrV9nHqc",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc8br.jpg"
   },
@@ -78,6 +152,18 @@
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobwi7.jpg"
   },
   {
+   "id": 17131,
+   "nom": "BeamNG.drive",
+   "date": "2026-10-19",
+   "genres": [
+    "Racing",
+    "Simulator"
+   ],
+   "note": null,
+   "video": "4ms-LHkN6YQ",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1sym.jpg"
+  },
+  {
    "id": 318505,
    "nom": "DuneCrawl",
    "date": "2026-10-19",
@@ -89,18 +175,6 @@
    "note": null,
    "video": "-y7rI-sU4nc",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coawgh.jpg"
-  },
-  {
-   "id": 17131,
-   "nom": "BeamNG.drive",
-   "date": "2026-10-19",
-   "genres": [
-    "Racing",
-    "Simulator"
-   ],
-   "note": null,
-   "video": "4ms-LHkN6YQ",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1sym.jpg"
   },
   {
    "id": 349004,
@@ -124,7 +198,7 @@
     "Adventure",
     "Indie"
    ],
-   "note": null,
+   "note": 90,
    "video": "zTFdnUzMU84",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocur0.jpg"
   },
@@ -133,6 +207,7 @@
    "nom": "Nightmare: The Lunatic",
    "date": "2026-10-16",
    "genres": [
+    "Fighting",
     "Platform",
     "Role-playing (RPG)",
     "Adventure",
@@ -212,6 +287,20 @@
    "note": null,
    "video": "MkBnMC3vs1Q",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod0rc.jpg"
+  },
+  {
+   "id": 348835,
+   "nom": "Cubic Cosmos",
+   "date": "2026-10-15",
+   "genres": [
+    "Role-playing (RPG)",
+    "Strategy",
+    "Adventure",
+    "Card & Board Game"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ymo.jpg"
   },
   {
    "id": 8794,
@@ -411,7 +500,7 @@
     "Adventure",
     "Indie"
    ],
-   "note": 75,
+   "note": 72,
    "video": "okG0R8r_G8Q",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob22x.jpg"
   },
@@ -572,6 +661,7 @@
    "nom": "Alpha Nomos",
    "date": "2026-10-12",
    "genres": [
+    "Music",
     "Adventure",
     "Indie"
    ],
@@ -601,7 +691,7 @@
     "Adventure",
     "Indie"
    ],
-   "note": null,
+   "note": 88,
    "video": "noq0c4YwqWY",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod5it.jpg"
   },
@@ -970,43 +1060,6 @@
    "note": 90,
    "video": "xKJD4_0o0Ek",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod2rg.jpg"
-  },
-  {
-   "id": 20688,
-   "nom": "Highway Blossoms",
-   "date": "2026-10-07",
-   "genres": [
-    "Adventure",
-    "Indie",
-    "Visual Novel"
-   ],
-   "note": 80,
-   "video": "zke1xGTi4N8",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2h7p.jpg"
-  },
-  {
-   "id": 152459,
-   "nom": "Moonlight In Garland",
-   "date": "2026-10-07",
-   "genres": [
-    "Role-playing (RPG)",
-    "Simulator",
-    "Indie"
-   ],
-   "note": null,
-   "video": "9AR777R05jk",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co46zb.jpg"
-  },
-  {
-   "id": 240556,
-   "nom": "Deep Rock Galactic: Survivor",
-   "date": "2026-10-07",
-   "genres": [
-    "Shooter"
-   ],
-   "note": 89,
-   "video": "VQ4WnXdarx4",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co68ah.jpg"
   }
  ]
 }

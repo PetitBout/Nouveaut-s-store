@@ -1,5 +1,5 @@
 {
- "maj": "2026-10-22 06:33",
+ "maj": "2026-10-23 06:32",
  "jeux": [
   {
    "id": 190280,
@@ -61,6 +61,19 @@
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocmt9.jpg"
   },
   {
+   "id": 140443,
+   "nom": "Cotton Reboot!",
+   "date": "2026-10-22",
+   "genres": [
+    "Shooter",
+    "Adventure",
+    "Arcade"
+   ],
+   "note": 81,
+   "video": "FJjqOOK8k4c",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2k9r.jpg"
+  },
+  {
    "id": 425074,
    "nom": "Arcade Archives 2: Ace Driver Victory Lap",
    "date": "2026-10-22",
@@ -106,7 +119,7 @@
     "Simulator",
     "Strategy"
    ],
-   "note": null,
+   "note": 73,
    "video": "bv5WxE-kLGM",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocb9w.jpg"
   },
@@ -145,6 +158,20 @@
    "note": 88,
    "video": "ftCvnEE6rfI",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc7q4.jpg"
+  },
+  {
+   "id": 148700,
+   "nom": "Mortal Sin",
+   "date": "2026-10-21",
+   "genres": [
+    "Role-playing (RPG)",
+    "Hack and slash/Beat 'em up",
+    "Adventure",
+    "Indie"
+   ],
+   "note": 81,
+   "video": "YDbmN_DJT0Y",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa8i5.jpg"
   },
   {
    "id": 211637,
@@ -353,7 +380,10 @@
    "id": 425061,
    "nom": "Console Archives: The Drug Store",
    "date": "2026-10-15",
-   "genres": [],
+   "genres": [
+    "Point-and-click",
+    "Simulator"
+   ],
    "note": null,
    "video": "dbHdewywwtc",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod77r.jpg"
@@ -595,7 +625,7 @@
     "Role-playing (RPG)",
     "Adventure"
    ],
-   "note": null,
+   "note": 90,
    "video": "qygf4aICf34",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod12a.jpg"
   },
@@ -789,105 +819,6 @@
    "note": null,
    "video": "sPPjyo53Khs",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocu2t.jpg"
-  },
-  {
-   "id": 418327,
-   "nom": "Banchou Tactics: Lion Heart",
-   "date": "2026-10-09",
-   "genres": [
-    "Role-playing (RPG)",
-    "Strategy",
-    "Turn-based strategy (TBS)"
-   ],
-   "note": null,
-   "video": "TNre_1QOyOE",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod3xp.jpg"
-  },
-  {
-   "id": 202786,
-   "nom": "Banchou Tactics",
-   "date": "2026-10-09",
-   "genres": [
-    "Role-playing (RPG)",
-    "Strategy",
-    "Turn-based strategy (TBS)",
-    "Arcade"
-   ],
-   "note": null,
-   "video": "DiwzMEF8TCo",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4sk0.jpg"
-  },
-  {
-   "id": 262790,
-   "nom": "My Lovey-Dovey Demon",
-   "date": "2026-10-09",
-   "genres": [
-    "Visual Novel"
-   ],
-   "note": null,
-   "video": "wvYiQacow4I",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co88bk.jpg"
-  },
-  {
-   "id": 248673,
-   "nom": "Dungeons & Degenerate Gamblers",
-   "date": "2026-10-09",
-   "genres": [
-    "Role-playing (RPG)",
-    "Strategy",
-    "Indie"
-   ],
-   "note": 76,
-   "video": "Q3IzShOv9Fk",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8l2d.jpg"
-  },
-  {
-   "id": 412345,
-   "nom": "Horse Club Ride West",
-   "date": "2026-10-09",
-   "genres": [
-    "Simulator",
-    "Adventure"
-   ],
-   "note": 78,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod3xc.jpg"
-  },
-  {
-   "id": 381154,
-   "nom": "Gear.Club Unlimited 3",
-   "date": "2026-10-09",
-   "genres": [
-    "Racing",
-    "Simulator",
-    "Sport"
-   ],
-   "note": null,
-   "video": "v6KrxPMV8Wg",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob09t.jpg"
-  },
-  {
-   "id": 276028,
-   "nom": "Paperhead",
-   "date": "2026-10-09",
-   "genres": [
-    "Shooter",
-    "Indie"
-   ],
-   "note": null,
-   "video": "DqdjcF__d9A",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocz72.jpg"
-  },
-  {
-   "id": 406240,
-   "nom": "Sesame Street: Friends & Fun",
-   "date": "2026-10-09",
-   "genres": [
-    "Adventure"
-   ],
-   "note": null,
-   "video": "k-dFFv6YO2A",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc93a.jpg"
   }
  ]
 }

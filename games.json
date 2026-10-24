@@ -1,6 +1,32 @@
 {
- "maj": "2026-10-23 06:32",
+ "maj": "2026-10-24 06:27",
  "jeux": [
+  {
+   "id": 425386,
+   "nom": "Shardwatch Dominion",
+   "date": "2026-10-23",
+   "genres": [
+    "Strategy",
+    "Indie"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod7pu.jpg"
+  },
+  {
+   "id": 425359,
+   "nom": "Omni Growth",
+   "date": "2026-10-23",
+   "genres": [
+    "Platform",
+    "Puzzle",
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod7oh.jpg"
+  },
   {
    "id": 190280,
    "nom": "Tape to Tape",
@@ -44,7 +70,7 @@
    "genres": [
     "Shooter"
    ],
-   "note": null,
+   "note": 95,
    "video": "jLbst85USN8",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4mu.jpg"
   },
@@ -59,6 +85,17 @@
    "note": null,
    "video": "A298ju55vc8",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocmt9.jpg"
+  },
+  {
+   "id": 425325,
+   "nom": "Console Archives: Raiden Project",
+   "date": "2026-10-22",
+   "genres": [
+    "Shooter"
+   ],
+   "note": null,
+   "video": "tXjS69SQCeg",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod7mg.jpg"
   },
   {
    "id": 140443,
@@ -375,6 +412,17 @@
    "note": 75,
    "video": "n0Trr5yLK1A",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc7n7.jpg"
+  },
+  {
+   "id": 425384,
+   "nom": "Lonely Hospital: Revelations",
+   "date": "2026-10-15",
+   "genres": [
+    "Adventure"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod7pr.jpg"
   },
   {
    "id": 425061,

@@ -1,6 +1,42 @@
 {
- "maj": "2026-10-24 06:27",
+ "maj": "2026-10-25 06:29",
  "jeux": [
+  {
+   "id": 416105,
+   "nom": "Hunter's Moon",
+   "date": "2026-10-26",
+   "genres": [
+    "Adventure"
+   ],
+   "note": null,
+   "video": "bKMaeHoJY2A",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coctlj.jpg"
+  },
+  {
+   "id": 349380,
+   "nom": "Fangtopia",
+   "date": "2026-10-26",
+   "genres": [
+    "Puzzle",
+    "Simulator",
+    "Strategy",
+    "Indie"
+   ],
+   "note": null,
+   "video": "4P1RLw1WiZA",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coct9k.jpg"
+  },
+  {
+   "id": 341065,
+   "nom": "Breach Signal",
+   "date": "2026-10-26",
+   "genres": [
+    "Indie"
+   ],
+   "note": null,
+   "video": "VXzP6tL5j3s",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9pks.jpg"
+  },
   {
    "id": 425386,
    "nom": "Shardwatch Dominion",

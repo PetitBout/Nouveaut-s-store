@@ -1,6 +1,55 @@
 {
- "maj": "2026-10-25 06:29",
+ "maj": "2026-10-26 06:37",
  "jeux": [
+  {
+   "id": 417896,
+   "nom": "Dog Man: Bark in Action",
+   "date": "2026-10-27",
+   "genres": [
+    "Platform",
+    "Adventure",
+    "Arcade"
+   ],
+   "note": null,
+   "video": "e0ICEISJUnY",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocynb.jpg"
+  },
+  {
+   "id": 335833,
+   "nom": "The Séance of Blake Manor",
+   "date": "2026-10-27",
+   "genres": [
+    "Puzzle",
+    "Adventure"
+   ],
+   "note": 87,
+   "video": "lKI7DVrhWL8",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9jkt.jpg"
+  },
+  {
+   "id": 394670,
+   "nom": "Remothered: Red Nun's Legacy",
+   "date": "2026-10-27",
+   "genres": [
+    "Puzzle",
+    "Adventure"
+   ],
+   "note": null,
+   "video": "npCgE3YjmEk",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobrbr.jpg"
+  },
+  {
+   "id": 358537,
+   "nom": "Village in the Shade",
+   "date": "2026-10-27",
+   "genres": [
+    "Simulator",
+    "Adventure"
+   ],
+   "note": null,
+   "video": "7AJIJ847PNo",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobtql.jpg"
+  },
   {
    "id": 416105,
    "nom": "Hunter's Moon",
@@ -36,6 +85,30 @@
    "note": null,
    "video": "VXzP6tL5j3s",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9pks.jpg"
+  },
+  {
+   "id": 339624,
+   "nom": "Fire and Ashes",
+   "date": "2026-10-23",
+   "genres": [
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "jUKvzfc8S-s",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coca5n.jpg"
+  },
+  {
+   "id": 425486,
+   "nom": "Seahorse Soap Patrol",
+   "date": "2026-10-23",
+   "genres": [
+    "Platform",
+    "Indie"
+   ],
+   "note": null,
+   "video": "60mzR-NnUnM",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod7ui.jpg"
   },
   {
    "id": 425386,
@@ -852,57 +925,6 @@
    "note": 60,
    "video": "zLOTKPLpemA",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc5at.jpg"
-  },
-  {
-   "id": 303133,
-   "nom": "Alpha Nomos",
-   "date": "2026-10-12",
-   "genres": [
-    "Music",
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "7Lv0I9-ytdc",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc1qy.jpg"
-  },
-  {
-   "id": 257932,
-   "nom": "Time To Wake Up",
-   "date": "2026-10-12",
-   "genres": [
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "39XlRd3Cv_k",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobk1q.jpg"
-  },
-  {
-   "id": 347850,
-   "nom": "Colorbound",
-   "date": "2026-10-12",
-   "genres": [
-    "Platform",
-    "Puzzle",
-    "Adventure",
-    "Indie"
-   ],
-   "note": 88,
-   "video": "noq0c4YwqWY",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod5it.jpg"
-  },
-  {
-   "id": 346482,
-   "nom": "Hubert",
-   "date": "2026-10-12",
-   "genres": [
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "sPPjyo53Khs",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocu2t.jpg"
   }
  ]
 }

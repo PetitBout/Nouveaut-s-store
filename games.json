@@ -1,6 +1,100 @@
 {
- "maj": "2026-10-26 06:37",
+ "maj": "2026-10-27 06:35",
  "jeux": [
+  {
+   "id": 31292,
+   "nom": "Darkness and Flame: Born of Fire",
+   "date": "2026-10-28",
+   "genres": [
+    "Puzzle",
+    "Adventure"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3o4q.jpg"
+  },
+  {
+   "id": 317533,
+   "nom": "Snø: Ultimate Freeriding",
+   "date": "2026-10-28",
+   "genres": [
+    "Racing",
+    "Simulator",
+    "Sport",
+    "Indie"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9g10.jpg"
+  },
+  {
+   "id": 233970,
+   "nom": "Sulfur",
+   "date": "2026-10-28",
+   "genres": [
+    "Shooter",
+    "Role-playing (RPG)",
+    "Simulator",
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "9WsdFbJF228",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6a6w.jpg"
+  },
+  {
+   "id": 172817,
+   "nom": "Fallen City Brawl",
+   "date": "2026-10-28",
+   "genres": [
+    "Fighting",
+    "Indie"
+   ],
+   "note": null,
+   "video": "CUcVaKUb5uE",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3wyi.jpg"
+  },
+  {
+   "id": 361052,
+   "nom": "Rogue Reigns",
+   "date": "2026-10-28",
+   "genres": [
+    "Role-playing (RPG)",
+    "Strategy",
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "xpUjpHIAtO8",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc0i7.jpg"
+  },
+  {
+   "id": 252013,
+   "nom": "Gennady",
+   "date": "2026-10-28",
+   "genres": [
+    "Platform",
+    "Adventure",
+    "Indie",
+    "Arcade"
+   ],
+   "note": null,
+   "video": "9u_i5JUK6GM",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9lr0.jpg"
+  },
+  {
+   "id": 402530,
+   "nom": "Anomalith",
+   "date": "2026-10-28",
+   "genres": [
+    "Shooter",
+    "Role-playing (RPG)",
+    "Adventure"
+   ],
+   "note": null,
+   "video": "1hrRMm5horM",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc3jf.jpg"
+  },
   {
    "id": 417896,
    "nom": "Dog Man: Bark in Action",
@@ -85,6 +179,15 @@
    "note": null,
    "video": "VXzP6tL5j3s",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9pks.jpg"
+  },
+  {
+   "id": 425864,
+   "nom": "Vixen 357",
+   "date": "2026-10-23",
+   "genres": [],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod8e3.jpg"
   },
   {
    "id": 339624,
@@ -301,7 +404,7 @@
     "Role-playing (RPG)",
     "Adventure"
    ],
-   "note": 88,
+   "note": 89,
    "video": "ftCvnEE6rfI",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc7q4.jpg"
   },
@@ -891,40 +994,6 @@
    "note": null,
    "video": "rG19wrCGR5g",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod57o.jpg"
-  },
-  {
-   "id": 409690,
-   "nom": "Just Dance: Decades of Hits",
-   "date": "2026-10-13",
-   "genres": [],
-   "note": null,
-   "video": "WaemsD8T1kA",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocjfj.jpg"
-  },
-  {
-   "id": 361833,
-   "nom": "Valor Mortis",
-   "date": "2026-10-13",
-   "genres": [
-    "Shooter",
-    "Role-playing (RPG)",
-    "Adventure"
-   ],
-   "note": 85,
-   "video": "cIF7cL0KRDU",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaazc.jpg"
-  },
-  {
-   "id": 402959,
-   "nom": "Planet Zoo 2",
-   "date": "2026-10-13",
-   "genres": [
-    "Simulator",
-    "Strategy"
-   ],
-   "note": 60,
-   "video": "zLOTKPLpemA",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc5at.jpg"
   }
  ]
 }

@@ -1,6 +1,116 @@
 {
- "maj": "2026-10-28 06:41",
+ "maj": "2026-10-29 06:43",
  "jeux": [
+  {
+   "id": 328140,
+   "nom": "Look Outside",
+   "date": "2026-10-30",
+   "genres": [
+    "Role-playing (RPG)",
+    "Strategy",
+    "Turn-based strategy (TBS)",
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "bJOEQQYigxY",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9k8n.jpg"
+  },
+  {
+   "id": 258775,
+   "nom": "Queen's Domain",
+   "date": "2026-10-30",
+   "genres": [
+    "Role-playing (RPG)",
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "ShsY9k1stzY",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coay8v.jpg"
+  },
+  {
+   "id": 86391,
+   "nom": "Asylum",
+   "date": "2026-10-30",
+   "genres": [
+    "Point-and-click",
+    "Puzzle",
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "aXs4Fysxsc4",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ph6.jpg"
+  },
+  {
+   "id": 333871,
+   "nom": "Suri: The Seventh Note",
+   "date": "2026-10-30",
+   "genres": [
+    "Music",
+    "Platform",
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "LOg0r2yGG4s",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod0l5.jpg"
+  },
+  {
+   "id": 403720,
+   "nom": "The Cat in the Hat: Rainy Day Mayhem",
+   "date": "2026-10-30",
+   "genres": [],
+   "note": null,
+   "video": "ocSG0OKEGog",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocb9n.jpg"
+  },
+  {
+   "id": 426458,
+   "nom": "Arcade Archives 2: Swimmer",
+   "date": "2026-10-29",
+   "genres": [],
+   "note": null,
+   "video": "IPLGemw_lw8",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod92a.jpg"
+  },
+  {
+   "id": 426412,
+   "nom": "Arcade Archives 2: Prehistoric Isle",
+   "date": "2026-10-29",
+   "genres": [
+    "Shooter",
+    "Arcade"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod912.jpg"
+  },
+  {
+   "id": 358272,
+   "nom": "Hellbound, Inc.",
+   "date": "2026-10-29",
+   "genres": [
+    "Platform",
+    "Puzzle",
+    "Indie"
+   ],
+   "note": null,
+   "video": "EOasLsUCg2w",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa92f.jpg"
+  },
+  {
+   "id": 426159,
+   "nom": "White Box Quiz",
+   "date": "2026-10-29",
+   "genres": [
+    "Quiz/Trivia"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod930.jpg"
+  },
   {
    "id": 192035,
    "nom": "Hatsune Miku Connecting Puzzle Tamagotori",
@@ -240,6 +350,34 @@
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co90no.jpg"
   },
   {
+   "id": 243924,
+   "nom": "Primal Planet",
+   "date": "2026-10-28",
+   "genres": [
+    "Platform",
+    "Role-playing (RPG)",
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "n418LLl20u4",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa6u1.jpg"
+  },
+  {
+   "id": 381087,
+   "nom": "Frog Sqwad",
+   "date": "2026-10-28",
+   "genres": [
+    "Platform",
+    "Puzzle",
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "x2BGF12nGU8",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob00u.jpg"
+  },
+  {
    "id": 31292,
    "nom": "Darkness and Flame: Born of Fire",
    "date": "2026-10-28",
@@ -383,6 +521,31 @@
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobtql.jpg"
   },
   {
+   "id": 319650,
+   "nom": "Ayasa: Shadows of Silence",
+   "date": "2026-10-26",
+   "genres": [
+    "Platform",
+    "Puzzle",
+    "Adventure"
+   ],
+   "note": null,
+   "video": "1Upsz0cjoNY",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9s6k.jpg"
+  },
+  {
+   "id": 422118,
+   "nom": "Boarding Denied",
+   "date": "2026-10-26",
+   "genres": [
+    "Puzzle",
+    "Simulator"
+   ],
+   "note": null,
+   "video": "3Yq0iQ2LVNs",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod2t4.jpg"
+  },
+  {
    "id": 416105,
    "nom": "Hunter's Moon",
    "date": "2026-10-26",
@@ -417,6 +580,17 @@
    "note": null,
    "video": "VXzP6tL5j3s",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9pks.jpg"
+  },
+  {
+   "id": 425903,
+   "nom": "Dominoes Together",
+   "date": "2026-10-23",
+   "genres": [
+    "Card & Board Game"
+   ],
+   "note": null,
+   "video": "zp6cjzJQUw4",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod929.jpg"
   },
   {
    "id": 425864,
@@ -862,296 +1036,6 @@
    "note": 75,
    "video": "n0Trr5yLK1A",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc7n7.jpg"
-  },
-  {
-   "id": 425384,
-   "nom": "Lonely Hospital: Revelations",
-   "date": "2026-10-15",
-   "genres": [
-    "Adventure"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod7pr.jpg"
-  },
-  {
-   "id": 425061,
-   "nom": "Console Archives: The Drug Store",
-   "date": "2026-10-15",
-   "genres": [
-    "Point-and-click",
-    "Simulator"
-   ],
-   "note": null,
-   "video": "dbHdewywwtc",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod77r.jpg"
-  },
-  {
-   "id": 411997,
-   "nom": "Wand & Order: Tidy Up the Magic Shop!",
-   "date": "2026-10-15",
-   "genres": [
-    "Puzzle",
-    "Simulator",
-    "Indie"
-   ],
-   "note": null,
-   "video": "MkBnMC3vs1Q",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod0rc.jpg"
-  },
-  {
-   "id": 348835,
-   "nom": "Cubic Cosmos",
-   "date": "2026-10-15",
-   "genres": [
-    "Role-playing (RPG)",
-    "Strategy",
-    "Adventure",
-    "Card & Board Game"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ymo.jpg"
-  },
-  {
-   "id": 8794,
-   "nom": "A Bird Story",
-   "date": "2026-10-15",
-   "genres": [
-    "Adventure",
-    "Indie"
-   ],
-   "note": 68,
-   "video": "SCSK0yrakxY",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3wiy.jpg"
-  },
-  {
-   "id": 423860,
-   "nom": "Castlevania: Belmont's Curse: Night One Edition",
-   "date": "2026-10-15",
-   "genres": [
-    "Platform",
-    "Role-playing (RPG)",
-    "Hack and slash/Beat 'em up",
-    "Adventure"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod5ev.jpg"
-  },
-  {
-   "id": 423761,
-   "nom": "Arcade Archives 2: Thundercade",
-   "date": "2026-10-15",
-   "genres": [
-    "Shooter",
-    "Arcade"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod5ad.jpg"
-  },
-  {
-   "id": 423652,
-   "nom": "Arcade Archives 2: Stinger",
-   "date": "2026-10-15",
-   "genres": [
-    "Shooter",
-    "Arcade"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod54j.jpg"
-  },
-  {
-   "id": 201752,
-   "nom": "Antonblast",
-   "date": "2026-10-15",
-   "genres": [
-    "Platform",
-    "Puzzle",
-    "Adventure",
-    "Indie"
-   ],
-   "note": 95,
-   "video": "GEuT3k1Y2ts",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8txh.jpg"
-  },
-  {
-   "id": 423091,
-   "nom": "Control Resonant: Special Edition",
-   "date": "2026-10-15",
-   "genres": [
-    "Role-playing (RPG)",
-    "Hack and slash/Beat 'em up",
-    "Adventure"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod4bt.jpg"
-  },
-  {
-   "id": 33672,
-   "nom": "Prison Run and Gun",
-   "date": "2026-10-15",
-   "genres": [
-    "Puzzle",
-    "Indie",
-    "Arcade"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co81mk.jpg"
-  },
-  {
-   "id": 58718,
-   "nom": "Desolus",
-   "date": "2026-10-15",
-   "genres": [
-    "Puzzle",
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "q450Objbycw",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8pt9.jpg"
-  },
-  {
-   "id": 421585,
-   "nom": "Wolfsschanze: Operation Götterdämmerung",
-   "date": "2026-10-15",
-   "genres": [
-    "Shooter"
-   ],
-   "note": null,
-   "video": "jAcRzF51n1Q",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod20u.jpg"
-  },
-  {
-   "id": 346386,
-   "nom": "Creepy Tale: Snow Child",
-   "date": "2026-10-15",
-   "genres": [
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "OIRz3RqZRfQ",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4cu.jpg"
-  },
-  {
-   "id": 418329,
-   "nom": "Bluey's Happy Snaps: Deluxe Edition",
-   "date": "2026-10-15",
-   "genres": [],
-   "note": null,
-   "video": null,
-   "affiche": null
-  },
-  {
-   "id": 418336,
-   "nom": "Ratatan: Digital Deluxe Edition",
-   "date": "2026-10-15",
-   "genres": [
-    "Music",
-    "Role-playing (RPG)",
-    "Strategy",
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocy3p.jpg"
-  },
-  {
-   "id": 344588,
-   "nom": "Chained Beasts",
-   "date": "2026-10-15",
-   "genres": [
-    "Hack and slash/Beat 'em up",
-    "Indie"
-   ],
-   "note": null,
-   "video": "zBRNt-cRvS0",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod2kz.jpg"
-  },
-  {
-   "id": 396024,
-   "nom": "Bluey's Happy Snaps",
-   "date": "2026-10-15",
-   "genres": [
-    "Puzzle",
-    "Adventure"
-   ],
-   "note": 81,
-   "video": "l-k93PJGj3E",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobtwy.jpg"
-  },
-  {
-   "id": 400976,
-   "nom": "Harvest Moon: Echoes of Teradea",
-   "date": "2026-10-15",
-   "genres": [
-    "Role-playing (RPG)",
-    "Simulator",
-    "Adventure"
-   ],
-   "note": 83,
-   "video": "E9DkUhHJpjE",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocxj5.jpg"
-  },
-  {
-   "id": 259339,
-   "nom": "Ratatan",
-   "date": "2026-10-15",
-   "genres": [
-    "Music",
-    "Role-playing (RPG)",
-    "Strategy",
-    "Adventure",
-    "Indie"
-   ],
-   "note": 72,
-   "video": "okG0R8r_G8Q",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob22x.jpg"
-  },
-  {
-   "id": 248643,
-   "nom": "Enshrouded",
-   "date": "2026-10-15",
-   "genres": [
-    "Role-playing (RPG)",
-    "Adventure"
-   ],
-   "note": 90,
-   "video": "qygf4aICf34",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod12a.jpg"
-  },
-  {
-   "id": 389434,
-   "nom": "Castlevania: Belmont's Curse",
-   "date": "2026-10-15",
-   "genres": [
-    "Platform",
-    "Role-playing (RPG)",
-    "Hack and slash/Beat 'em up",
-    "Adventure"
-   ],
-   "note": 84,
-   "video": "X3-SJLWzjmE",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod5fk.jpg"
-  },
-  {
-   "id": 404035,
-   "nom": "Toy Story 3: Complete Edition",
-   "date": "2026-10-15",
-   "genres": [
-    "Platform",
-    "Adventure"
-   ],
-   "note": null,
-   "video": "Kgp9iOHxrFw",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc5v1.jpg"
   }
  ]
 }

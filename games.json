@@ -1,6 +1,55 @@
 {
- "maj": "2026-10-29 06:43",
+ "maj": "2026-10-30 06:44",
  "jeux": [
+  {
+   "id": 120814,
+   "nom": "HorrorVale",
+   "date": "2026-10-31",
+   "genres": [
+    "Role-playing (RPG)",
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "9MHlz_-uc8Y",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9rpa.jpg"
+  },
+  {
+   "id": 332314,
+   "nom": "Baptiste",
+   "date": "2026-10-31",
+   "genres": [
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "aKJ870lSUYs",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9fi5.jpg"
+  },
+  {
+   "id": 426714,
+   "nom": "Resonance of Fate Enhanced Remaster",
+   "date": "2026-10-30",
+   "genres": [
+    "Role-playing (RPG)",
+    "Strategy"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod9dt.jpg"
+  },
+  {
+   "id": 332788,
+   "nom": "The Night of the Exorcism",
+   "date": "2026-10-30",
+   "genres": [
+    "Adventure",
+    "Visual Novel"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9haz.jpg"
+  },
   {
    "id": 328140,
    "nom": "Look Outside",
@@ -109,7 +158,7 @@
    ],
    "note": null,
    "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod930.jpg"
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod9at.jpg"
   },
   {
    "id": 192035,
@@ -296,7 +345,7 @@
     "Role-playing (RPG)",
     "Adventure"
    ],
-   "note": 81,
+   "note": 86,
    "video": "HhpFCnyfXHg",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc6r3.jpg"
   },
@@ -305,6 +354,7 @@
    "nom": "Hunting Simulator 3",
    "date": "2026-10-29",
    "genres": [
+    "Shooter",
     "Simulator"
    ],
    "note": null,
@@ -711,6 +761,19 @@
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocmt9.jpg"
   },
   {
+   "id": 420898,
+   "nom": "Tidy Up the Flower Shop",
+   "date": "2026-10-22",
+   "genres": [
+    "Puzzle",
+    "Simulator",
+    "Indie"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod0t8.jpg"
+  },
+  {
    "id": 425325,
    "nom": "Console Archives: Raiden Project",
    "date": "2026-10-22",
@@ -962,80 +1025,6 @@
    "note": null,
    "video": "TIAKegcybfE",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobolp.jpg"
-  },
-  {
-   "id": 216692,
-   "nom": "Tenebris Somnia",
-   "date": "2026-10-16",
-   "genres": [
-    "Adventure",
-    "Indie"
-   ],
-   "note": 90,
-   "video": "zTFdnUzMU84",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod754.jpg"
-  },
-  {
-   "id": 186025,
-   "nom": "Nightmare: The Lunatic",
-   "date": "2026-10-16",
-   "genres": [
-    "Fighting",
-    "Platform",
-    "Role-playing (RPG)",
-    "Adventure",
-    "Indie",
-    "Arcade"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4cnl.jpg"
-  },
-  {
-   "id": 423989,
-   "nom": "Moto X",
-   "date": "2026-10-16",
-   "genres": [
-    "Racing"
-   ],
-   "note": null,
-   "video": "sNgnYFy8j8E",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod5o2.jpg"
-  },
-  {
-   "id": 386835,
-   "nom": "Heavy Metal Death Can",
-   "date": "2026-10-16",
-   "genres": [
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "8zvmV8jRCLc",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobck5.jpg"
-  },
-  {
-   "id": 415399,
-   "nom": "Call of Duty: Modern Warfare 4 - Vault Edition",
-   "date": "2026-10-16",
-   "genres": [
-    "Shooter"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coctdd.jpg"
-  },
-  {
-   "id": 405458,
-   "nom": "Tales of Eternia: Remastered",
-   "date": "2026-10-16",
-   "genres": [
-    "Role-playing (RPG)",
-    "Adventure"
-   ],
-   "note": 75,
-   "video": "n0Trr5yLK1A",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc7n7.jpg"
   }
  ]
 }

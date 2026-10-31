@@ -1,6 +1,18 @@
 {
- "maj": "2026-10-30 06:44",
+ "maj": "2026-10-31 06:42",
  "jeux": [
+  {
+   "id": 65764,
+   "nom": "Steins;Gate: Octet of Shifting Space",
+   "date": "2026-11-01",
+   "genres": [
+    "Adventure",
+    "Visual Novel"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6bl6.jpg"
+  },
   {
    "id": 120814,
    "nom": "HorrorVale",
@@ -36,7 +48,7 @@
    ],
    "note": null,
    "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod9dt.jpg"
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod9i4.jpg"
   },
   {
    "id": 332788,
@@ -114,6 +126,31 @@
    "note": null,
    "video": "ocSG0OKEGog",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocb9n.jpg"
+  },
+  {
+   "id": 314090,
+   "nom": "Deadly Days: Roadtrip",
+   "date": "2026-10-29",
+   "genres": [
+    "Hack and slash/Beat 'em up",
+    "Indie"
+   ],
+   "note": null,
+   "video": "Yf6IhWmxzk8",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaiyz.jpg"
+  },
+  {
+   "id": 167750,
+   "nom": "HyperViolent",
+   "date": "2026-10-29",
+   "genres": [
+    "Shooter",
+    "Role-playing (RPG)",
+    "Indie"
+   ],
+   "note": null,
+   "video": "q6hkQGu8x-k",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coahmz.jpg"
   },
   {
    "id": 426458,
@@ -522,6 +559,34 @@
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc3jf.jpg"
   },
   {
+   "id": 356956,
+   "nom": "Treasure Tiger",
+   "date": "2026-10-27",
+   "genres": [
+    "Simulator",
+    "Strategy",
+    "Indie"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa65a.jpg"
+  },
+  {
+   "id": 249845,
+   "nom": "Paths of Fight: Samurai",
+   "date": "2026-10-27",
+   "genres": [
+    "Puzzle",
+    "Strategy",
+    "Turn-based strategy (TBS)",
+    "Hack and slash/Beat 'em up",
+    "Adventure"
+   ],
+   "note": null,
+   "video": "NE-MYfv1w50",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6wzf.jpg"
+  },
+  {
    "id": 417896,
    "nom": "Dog Man: Bark in Action",
    "date": "2026-10-27",
@@ -630,6 +695,21 @@
    "note": null,
    "video": "VXzP6tL5j3s",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9pks.jpg"
+  },
+  {
+   "id": 319399,
+   "nom": "Carry The Glass",
+   "date": "2026-10-23",
+   "genres": [
+    "Platform",
+    "Puzzle",
+    "Simulator",
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "C4o2Y25VBOY",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaa4e.jpg"
   },
   {
    "id": 425903,
@@ -756,7 +836,7 @@
     "Role-playing (RPG)",
     "Adventure"
    ],
-   "note": null,
+   "note": 80,
    "video": "A298ju55vc8",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocmt9.jpg"
   },

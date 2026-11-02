@@ -1,6 +1,71 @@
 {
- "maj": "2026-11-01 06:47",
+ "maj": "2026-11-02 07:11",
  "jeux": [
+  {
+   "id": 349302,
+   "nom": "Solo Leveling: Arise Overdrive",
+   "date": "2026-11-03",
+   "genres": [
+    "Role-playing (RPG)"
+   ],
+   "note": null,
+   "video": "XjJPq-3Ltak",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coakb8.jpg"
+  },
+  {
+   "id": 410158,
+   "nom": "Bowling Alley Simulator",
+   "date": "2026-11-03",
+   "genres": [
+    "Simulator",
+    "Adventure"
+   ],
+   "note": null,
+   "video": "7aTZGy9VXcM",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cociml.jpg"
+  },
+  {
+   "id": 421057,
+   "nom": "Zero Parades: Director's Cut",
+   "date": "2026-11-03",
+   "genres": [
+    "Point-and-click",
+    "Role-playing (RPG)",
+    "Adventure"
+   ],
+   "note": null,
+   "video": "mPWaFxZmz7c",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod1am.jpg"
+  },
+  {
+   "id": 412639,
+   "nom": "Let’s Sing 2027",
+   "date": "2026-11-03",
+   "genres": [],
+   "note": null,
+   "video": "d16zccHDscM",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocn1s.jpg"
+  },
+  {
+   "id": 412641,
+   "nom": "Let's Sing Presents: Abba",
+   "date": "2026-11-03",
+   "genres": [],
+   "note": null,
+   "video": "A0ZONw-vPmE",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocn1w.jpg"
+  },
+  {
+   "id": 404939,
+   "nom": "Godzilla: Destroy All Monsters Melee Remastered",
+   "date": "2026-11-03",
+   "genres": [
+    "Fighting"
+   ],
+   "note": null,
+   "video": "8N9QN4X1pIk",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coctec.jpg"
+  },
   {
    "id": 65764,
    "nom": "Steins;Gate: Octet of Shifting Space",
@@ -74,7 +139,7 @@
     "Adventure",
     "Indie"
    ],
-   "note": null,
+   "note": 95,
    "video": "ShsY9k1stzY",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coay8v.jpg"
   },
@@ -114,6 +179,31 @@
    "note": null,
    "video": "ocSG0OKEGog",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocb9n.jpg"
+  },
+  {
+   "id": 427247,
+   "nom": "Console Archives: Marl Jong",
+   "date": "2026-10-29",
+   "genres": [
+    "Card & Board Game"
+   ],
+   "note": null,
+   "video": "C4GzxIwOVCs",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coda4b.jpg"
+  },
+  {
+   "id": 426977,
+   "nom": "SimsalaGrimm: The Chaos Crystal",
+   "date": "2026-10-29",
+   "genres": [
+    "Point-and-click",
+    "Puzzle",
+    "Adventure",
+    "Card & Board Game"
+   ],
+   "note": null,
+   "video": "Bf6Lnct6Bf8",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod9pm.jpg"
   },
   {
    "id": 314090,
@@ -1054,31 +1144,6 @@
    "note": null,
    "video": "VSLMgO3ypD0",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobwi7.jpg"
-  },
-  {
-   "id": 17131,
-   "nom": "BeamNG.drive",
-   "date": "2026-10-19",
-   "genres": [
-    "Racing",
-    "Simulator"
-   ],
-   "note": null,
-   "video": "4ms-LHkN6YQ",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1sym.jpg"
-  },
-  {
-   "id": 318505,
-   "nom": "DuneCrawl",
-   "date": "2026-10-19",
-   "genres": [
-    "Role-playing (RPG)",
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "-y7rI-sU4nc",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coawgh.jpg"
   }
  ]
 }

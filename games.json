@@ -1,6 +1,47 @@
 {
- "maj": "2026-11-02 07:11",
+ "maj": "2026-11-03 06:56",
  "jeux": [
+  {
+   "id": 191656,
+   "nom": "We are Eva",
+   "date": "2026-11-04",
+   "genres": [
+    "Platform",
+    "Indie"
+   ],
+   "note": null,
+   "video": "9CeIeP_Ppwo",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6m9w.jpg"
+  },
+  {
+   "id": 339626,
+   "nom": "Void/Breaker",
+   "date": "2026-11-04",
+   "genres": [
+    "Shooter",
+    "Role-playing (RPG)",
+    "Simulator",
+    "Sport",
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "CaHK-JJINQc",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9nls.jpg"
+  },
+  {
+   "id": 144971,
+   "nom": "Worship",
+   "date": "2026-11-04",
+   "genres": [
+    "Strategy",
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "I4C15TqYOs4",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2vzc.jpg"
+  },
   {
    "id": 349302,
    "nom": "Solo Leveling: Arise Overdrive",
@@ -62,9 +103,22 @@
    "genres": [
     "Fighting"
    ],
-   "note": null,
+   "note": 78,
    "video": "8N9QN4X1pIk",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coctec.jpg"
+  },
+  {
+   "id": 138211,
+   "nom": "Ova Magica",
+   "date": "2026-11-01",
+   "genres": [
+    "Role-playing (RPG)",
+    "Simulator",
+    "Indie"
+   ],
+   "note": null,
+   "video": "nPSI0okfs5E",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2k81.jpg"
   },
   {
    "id": 65764,
@@ -141,7 +195,7 @@
    ],
    "note": 95,
    "video": "ShsY9k1stzY",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coay8v.jpg"
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coda8t.jpg"
   },
   {
    "id": 86391,
@@ -206,6 +260,18 @@
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod9pm.jpg"
   },
   {
+   "id": 161365,
+   "nom": "Beyond the Evil",
+   "date": "2026-10-29",
+   "genres": [
+    "Puzzle",
+    "Indie"
+   ],
+   "note": null,
+   "video": "WYIAG0n7v7Q",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co63pt.jpg"
+  },
+  {
    "id": 314090,
    "nom": "Deadly Days: Roadtrip",
    "date": "2026-10-29",
@@ -234,7 +300,10 @@
    "id": 426458,
    "nom": "Arcade Archives 2: Swimmer",
    "date": "2026-10-29",
-   "genres": [],
+   "genres": [
+    "Platform",
+    "Arcade"
+   ],
    "note": null,
    "video": "IPLGemw_lw8",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod92a.jpg"
@@ -804,7 +873,10 @@
    "id": 425864,
    "nom": "Vixen 357",
    "date": "2026-10-23",
-   "genres": [],
+   "genres": [
+    "Role-playing (RPG)",
+    "Adventure"
+   ],
    "note": null,
    "video": null,
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod8e3.jpg"
@@ -827,6 +899,7 @@
    "date": "2026-10-23",
    "genres": [
     "Platform",
+    "Adventure",
     "Indie"
    ],
    "note": null,
@@ -1106,44 +1179,6 @@
    "note": 70,
    "video": "DFshrV9nHqc",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc8br.jpg"
-  },
-  {
-   "id": 416083,
-   "nom": "Dino Crisis 2",
-   "date": "2026-10-20",
-   "genres": [
-    "Shooter",
-    "Adventure"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocthm.jpg"
-  },
-  {
-   "id": 342011,
-   "nom": "Mycopunk",
-   "date": "2026-10-20",
-   "genres": [
-    "Shooter",
-    "Tactical",
-    "Indie"
-   ],
-   "note": 79,
-   "video": "1r1vMCuscdA",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9qrc.jpg"
-  },
-  {
-   "id": 393015,
-   "nom": "We Were Here Tomorrow",
-   "date": "2026-10-20",
-   "genres": [
-    "Puzzle",
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "VSLMgO3ypD0",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobwi7.jpg"
   }
  ]
 }

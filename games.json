@@ -1,6 +1,198 @@
 {
- "maj": "2026-11-03 06:56",
+ "maj": "2026-11-04 07:00",
  "jeux": [
+  {
+   "id": 318082,
+   "nom": "Cat-Astrophy",
+   "date": "2026-11-05",
+   "genres": [
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "gWRGhkXWoFY",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9y2o.jpg"
+  },
+  {
+   "id": 347671,
+   "nom": "Escape Academy 2: Back 2 School",
+   "date": "2026-11-05",
+   "genres": [
+    "Puzzle",
+    "Adventure"
+   ],
+   "note": 83,
+   "video": "owh9OAeOMYQ",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xhl.jpg"
+  },
+  {
+   "id": 325275,
+   "nom": "Faraway",
+   "date": "2026-11-05",
+   "genres": [
+    "Indie",
+    "Arcade"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co954g.jpg"
+  },
+  {
+   "id": 188465,
+   "nom": "Light: Black Cat & Amnesia Girl",
+   "date": "2026-11-05",
+   "genres": [
+    "Puzzle",
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "vBUWU9088GQ",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5iwv.jpg"
+  },
+  {
+   "id": 420537,
+   "nom": "Dark Alley",
+   "date": "2026-11-05",
+   "genres": [
+    "Simulator",
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "mniEw9oJicI",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod08d.jpg"
+  },
+  {
+   "id": 420665,
+   "nom": "Next of Kin: Epiphany",
+   "date": "2026-11-05",
+   "genres": [
+    "Role-playing (RPG)",
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "0ZtEeZIt07o",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod2mg.jpg"
+  },
+  {
+   "id": 123764,
+   "nom": "The Slormancer",
+   "date": "2026-11-05",
+   "genres": [
+    "Role-playing (RPG)",
+    "Adventure",
+    "Indie",
+    "Arcade"
+   ],
+   "note": null,
+   "video": "rPrwtmK3w_I",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ohn.jpg"
+  },
+  {
+   "id": 117531,
+   "nom": "Kingdom of Night",
+   "date": "2026-11-05",
+   "genres": [
+    "Role-playing (RPG)",
+    "Adventure",
+    "Indie",
+    "Arcade"
+   ],
+   "note": null,
+   "video": "NYSdk2oFdIY",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocyij.jpg"
+  },
+  {
+   "id": 203885,
+   "nom": "Yomawari: Lost in the Dark",
+   "date": "2026-11-05",
+   "genres": [
+    "Puzzle",
+    "Strategy",
+    "Adventure"
+   ],
+   "note": null,
+   "video": "JQlZWMLJXl0",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co59il.jpg"
+  },
+  {
+   "id": 28289,
+   "nom": "Yomawari: Midnight Shadows",
+   "date": "2026-11-05",
+   "genres": [
+    "Puzzle",
+    "Strategy",
+    "Adventure"
+   ],
+   "note": 83,
+   "video": "jfEFG_XRBf8",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co234u.jpg"
+  },
+  {
+   "id": 11589,
+   "nom": "Yomawari: Night Alone",
+   "date": "2026-11-05",
+   "genres": [
+    "Strategy",
+    "Adventure"
+   ],
+   "note": 80,
+   "video": "tYuifuDTmqU",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2nh3.jpg"
+  },
+  {
+   "id": 416123,
+   "nom": "Where the Seeds Fall",
+   "date": "2026-11-05",
+   "genres": [
+    "Platform",
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "zdDJlYAVe-c",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coctkd.jpg"
+  },
+  {
+   "id": 408838,
+   "nom": "K-Pop Rising: Dream to Shine",
+   "date": "2026-11-05",
+   "genres": [
+    "Music",
+    "Simulator",
+    "Adventure",
+    "Visual Novel"
+   ],
+   "note": null,
+   "video": "lSPG2bPZaAw",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coccke.jpg"
+  },
+  {
+   "id": 399436,
+   "nom": "Crymelight: Tea Party Box",
+   "date": "2026-11-05",
+   "genres": [
+    "Role-playing (RPG)"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobz7c.jpg"
+  },
+  {
+   "id": 399408,
+   "nom": "Crymelight",
+   "date": "2026-11-05",
+   "genres": [
+    "Role-playing (RPG)",
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "IvwQcEJzNp4",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobz5q.jpg"
+  },
   {
    "id": 191656,
    "nom": "We are Eva",
@@ -108,19 +300,6 @@
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coctec.jpg"
   },
   {
-   "id": 138211,
-   "nom": "Ova Magica",
-   "date": "2026-11-01",
-   "genres": [
-    "Role-playing (RPG)",
-    "Simulator",
-    "Indie"
-   ],
-   "note": null,
-   "video": "nPSI0okfs5E",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2k81.jpg"
-  },
-  {
    "id": 65764,
    "nom": "Steins;Gate: Octet of Shifting Space",
    "date": "2026-11-01",
@@ -144,6 +323,18 @@
    "note": null,
    "video": "9MHlz_-uc8Y",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9rpa.jpg"
+  },
+  {
+   "id": 427269,
+   "nom": "Tidebreak",
+   "date": "2026-10-30",
+   "genres": [
+    "Shooter",
+    "Arcade"
+   ],
+   "note": null,
+   "video": "NozjCsYdocM",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coda5j.jpg"
   },
   {
    "id": 426714,
@@ -239,6 +430,7 @@
    "nom": "Console Archives: Marl Jong",
    "date": "2026-10-29",
    "genres": [
+    "Puzzle",
     "Card & Board Game"
    ],
    "note": null,
@@ -513,6 +705,7 @@
    "nom": "Terrible Lizards",
    "date": "2026-10-29",
    "genres": [
+    "Platform",
     "Adventure",
     "Indie"
    ],
@@ -1113,72 +1306,6 @@
    "note": 89,
    "video": "ftCvnEE6rfI",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc7q4.jpg"
-  },
-  {
-   "id": 148700,
-   "nom": "Mortal Sin",
-   "date": "2026-10-21",
-   "genres": [
-    "Role-playing (RPG)",
-    "Hack and slash/Beat 'em up",
-    "Adventure",
-    "Indie"
-   ],
-   "note": 81,
-   "video": "YDbmN_DJT0Y",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa8i5.jpg"
-  },
-  {
-   "id": 211637,
-   "nom": "Pocket Mirror: GoldenerTraum",
-   "date": "2026-10-21",
-   "genres": [
-    "Puzzle",
-    "Role-playing (RPG)",
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "y93_K3AN6A8",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod7ai.jpg"
-  },
-  {
-   "id": 362114,
-   "nom": "The Killing Stone",
-   "date": "2026-10-21",
-   "genres": [
-    "Strategy",
-    "Indie",
-    "Card & Board Game"
-   ],
-   "note": null,
-   "video": "T9jhMvdht9c",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coab99.jpg"
-  },
-  {
-   "id": 239786,
-   "nom": "Hail to the Rainbow",
-   "date": "2026-10-21",
-   "genres": [
-    "Puzzle",
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "VS3YyLLb_Sg",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod2tg.jpg"
-  },
-  {
-   "id": 381212,
-   "nom": "Stupid Never Dies",
-   "date": "2026-10-21",
-   "genres": [
-    "Role-playing (RPG)",
-    "Adventure"
-   ],
-   "note": 70,
-   "video": "DFshrV9nHqc",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc8br.jpg"
   }
  ]
 }

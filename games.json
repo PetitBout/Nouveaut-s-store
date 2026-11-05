@@ -1,6 +1,41 @@
 {
- "maj": "2026-11-04 07:00",
+ "maj": "2026-11-05 14:22",
  "jeux": [
+  {
+   "id": 412107,
+   "nom": "Hasbro Games Junior Collection",
+   "date": "2026-11-06",
+   "genres": [
+    "Strategy",
+    "Card & Board Game"
+   ],
+   "note": null,
+   "video": "XCBjoeFX-e4",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocm0w.jpg"
+  },
+  {
+   "id": 428006,
+   "nom": "Arcade Archives 2: Exzisus",
+   "date": "2026-11-05",
+   "genres": [
+    "Shooter",
+    "Arcade"
+   ],
+   "note": null,
+   "video": "SgbeuylxIvk",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/codayl.jpg"
+  },
+  {
+   "id": 428001,
+   "nom": "Arcade Archives 2: Elevator Action",
+   "date": "2026-11-05",
+   "genres": [
+    "Arcade"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/codayg.jpg"
+  },
   {
    "id": 318082,
    "nom": "Cat-Astrophy",
@@ -235,6 +270,17 @@
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2vzc.jpg"
   },
   {
+   "id": 363992,
+   "nom": "Solo Leveling: Arise Overdrive - Deluxe Edition",
+   "date": "2026-11-03",
+   "genres": [
+    "Role-playing (RPG)"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": null
+  },
+  {
    "id": 349302,
    "nom": "Solo Leveling: Arise Overdrive",
    "date": "2026-11-03",
@@ -267,14 +313,16 @@
     "Adventure"
    ],
    "note": null,
-   "video": "mPWaFxZmz7c",
+   "video": "C_acH7Wx1Ew",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod1am.jpg"
   },
   {
    "id": 412639,
    "nom": "Let’s Sing 2027",
    "date": "2026-11-03",
-   "genres": [],
+   "genres": [
+    "Music"
+   ],
    "note": null,
    "video": "d16zccHDscM",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocn1s.jpg"
@@ -760,7 +808,7 @@
     "Hack and slash/Beat 'em up",
     "Adventure"
    ],
-   "note": null,
+   "note": 85,
    "video": "pueXBkFMK7Q",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cococe.jpg"
   },
@@ -937,7 +985,7 @@
    ],
    "note": null,
    "video": "e0ICEISJUnY",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocynb.jpg"
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/codb3l.jpg"
   },
   {
    "id": 335833,
@@ -1068,7 +1116,9 @@
    "date": "2026-10-23",
    "genres": [
     "Role-playing (RPG)",
-    "Adventure"
+    "Strategy",
+    "Adventure",
+    "Indie"
    ],
    "note": null,
    "video": null,
@@ -1183,129 +1233,6 @@
    "note": 80,
    "video": "A298ju55vc8",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocmt9.jpg"
-  },
-  {
-   "id": 420898,
-   "nom": "Tidy Up the Flower Shop",
-   "date": "2026-10-22",
-   "genres": [
-    "Puzzle",
-    "Simulator",
-    "Indie"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod0t8.jpg"
-  },
-  {
-   "id": 425325,
-   "nom": "Console Archives: Raiden Project",
-   "date": "2026-10-22",
-   "genres": [
-    "Shooter"
-   ],
-   "note": null,
-   "video": "tXjS69SQCeg",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod7mg.jpg"
-  },
-  {
-   "id": 140443,
-   "nom": "Cotton Reboot!",
-   "date": "2026-10-22",
-   "genres": [
-    "Shooter",
-    "Adventure",
-    "Arcade"
-   ],
-   "note": 81,
-   "video": "FJjqOOK8k4c",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2k9r.jpg"
-  },
-  {
-   "id": 425074,
-   "nom": "Arcade Archives 2: Ace Driver Victory Lap",
-   "date": "2026-10-22",
-   "genres": [
-    "Racing",
-    "Arcade"
-   ],
-   "note": null,
-   "video": "ow520ZjKhTA",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod78i.jpg"
-  },
-  {
-   "id": 349524,
-   "nom": "Peak",
-   "date": "2026-10-22",
-   "genres": [
-    "Platform",
-    "Adventure",
-    "Indie"
-   ],
-   "note": 86,
-   "video": "rVcAdSPO1YA",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocokj.jpg"
-  },
-  {
-   "id": 190169,
-   "nom": "Moadra",
-   "date": "2026-10-22",
-   "genres": [
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "zgtPSK8D_wo",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5lgk.jpg"
-  },
-  {
-   "id": 351210,
-   "nom": "Demons' Night Fever",
-   "date": "2026-10-22",
-   "genres": [
-    "Role-playing (RPG)",
-    "Simulator",
-    "Strategy"
-   ],
-   "note": 73,
-   "video": "bv5WxE-kLGM",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocb9w.jpg"
-  },
-  {
-   "id": 410844,
-   "nom": "Final Fantasy Resonance: Digital Deluxe Edition",
-   "date": "2026-10-22",
-   "genres": [],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cock54.jpg"
-  },
-  {
-   "id": 200544,
-   "nom": "Back to the Dawn",
-   "date": "2026-10-22",
-   "genres": [
-    "Role-playing (RPG)",
-    "Simulator",
-    "Strategy",
-    "Adventure",
-    "Indie"
-   ],
-   "note": 85,
-   "video": "htJudbXeQhE",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa4pz.jpg"
-  },
-  {
-   "id": 405454,
-   "nom": "Final Fantasy Resonance",
-   "date": "2026-10-22",
-   "genres": [
-    "Role-playing (RPG)",
-    "Adventure"
-   ],
-   "note": 89,
-   "video": "ftCvnEE6rfI",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc7q4.jpg"
   }
  ]
 }

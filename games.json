@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-05 14:22",
+ "maj": "2026-11-06 13:58",
  "jeux": [
   {
    "id": 412107,
@@ -90,6 +90,7 @@
    "nom": "Dark Alley",
    "date": "2026-11-05",
    "genres": [
+    "Puzzle",
     "Simulator",
     "Adventure",
     "Indie"
@@ -346,6 +347,17 @@
    "note": 78,
    "video": "8N9QN4X1pIk",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coctec.jpg"
+  },
+  {
+   "id": 428274,
+   "nom": "Mystery Suspect",
+   "date": "2026-11-02",
+   "genres": [
+    "Puzzle"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/codb87.jpg"
   },
   {
    "id": 65764,
@@ -808,7 +820,7 @@
     "Hack and slash/Beat 'em up",
     "Adventure"
    ],
-   "note": 85,
+   "note": 88,
    "video": "pueXBkFMK7Q",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cococe.jpg"
   },
@@ -1083,156 +1095,6 @@
    "note": null,
    "video": "VXzP6tL5j3s",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9pks.jpg"
-  },
-  {
-   "id": 319399,
-   "nom": "Carry The Glass",
-   "date": "2026-10-23",
-   "genres": [
-    "Platform",
-    "Puzzle",
-    "Simulator",
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "C4o2Y25VBOY",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaa4e.jpg"
-  },
-  {
-   "id": 425903,
-   "nom": "Dominoes Together",
-   "date": "2026-10-23",
-   "genres": [
-    "Card & Board Game"
-   ],
-   "note": null,
-   "video": "zp6cjzJQUw4",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod929.jpg"
-  },
-  {
-   "id": 425864,
-   "nom": "Vixen 357",
-   "date": "2026-10-23",
-   "genres": [
-    "Role-playing (RPG)",
-    "Strategy",
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod8e3.jpg"
-  },
-  {
-   "id": 339624,
-   "nom": "Fire and Ashes",
-   "date": "2026-10-23",
-   "genres": [
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "jUKvzfc8S-s",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coca5n.jpg"
-  },
-  {
-   "id": 425486,
-   "nom": "Seahorse Soap Patrol",
-   "date": "2026-10-23",
-   "genres": [
-    "Platform",
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "60mzR-NnUnM",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod7ui.jpg"
-  },
-  {
-   "id": 425386,
-   "nom": "Shardwatch Dominion",
-   "date": "2026-10-23",
-   "genres": [
-    "Strategy",
-    "Indie"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod7pu.jpg"
-  },
-  {
-   "id": 425359,
-   "nom": "Omni Growth",
-   "date": "2026-10-23",
-   "genres": [
-    "Platform",
-    "Puzzle",
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod7oh.jpg"
-  },
-  {
-   "id": 190280,
-   "nom": "Tape to Tape",
-   "date": "2026-10-23",
-   "genres": [
-    "Sport",
-    "Indie"
-   ],
-   "note": null,
-   "video": "4pVKfH31dlo",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod4xt.jpg"
-  },
-  {
-   "id": 235996,
-   "nom": "Darkenstein 3D",
-   "date": "2026-10-23",
-   "genres": [
-    "Shooter",
-    "Adventure"
-   ],
-   "note": null,
-   "video": "zIZpueXybPU",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8h4n.jpg"
-  },
-  {
-   "id": 345095,
-   "nom": "The Walking Trade",
-   "date": "2026-10-23",
-   "genres": [
-    "Simulator",
-    "Indie"
-   ],
-   "note": null,
-   "video": "btpTmM1Tzmk",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coan17.jpg"
-  },
-  {
-   "id": 403310,
-   "nom": "Call of Duty: Modern Warfare 4",
-   "date": "2026-10-23",
-   "genres": [
-    "Shooter"
-   ],
-   "note": 90,
-   "video": "jLbst85USN8",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4mu.jpg"
-  },
-  {
-   "id": 412520,
-   "nom": "Warrior Cats: Clans of the Forest",
-   "date": "2026-10-23",
-   "genres": [
-    "Role-playing (RPG)",
-    "Adventure"
-   ],
-   "note": 80,
-   "video": "A298ju55vc8",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocmt9.jpg"
   }
  ]
 }

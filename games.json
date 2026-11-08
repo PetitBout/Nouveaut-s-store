@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-07 12:42",
+ "maj": "2026-11-08 12:59",
  "jeux": [
+  {
+   "id": 345443,
+   "nom": "Hozy",
+   "date": "2026-11-09",
+   "genres": [
+    "Simulator",
+    "Indie"
+   ],
+   "note": null,
+   "video": "AbDSwdOZUwk",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9v85.jpg"
+  },
   {
    "id": 412107,
    "nom": "Hasbro Games Junior Collection",
@@ -1044,7 +1056,7 @@
     "Puzzle",
     "Adventure"
    ],
-   "note": null,
+   "note": 46,
    "video": "1Upsz0cjoNY",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9s6k.jpg"
   },

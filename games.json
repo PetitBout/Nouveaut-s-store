@@ -1,6 +1,110 @@
 {
- "maj": "2026-11-08 12:59",
+ "maj": "2026-11-09 15:41",
  "jeux": [
+  {
+   "id": 116014,
+   "nom": "Hard West 2",
+   "date": "2026-11-10",
+   "genres": [
+    "Role-playing (RPG)",
+    "Strategy",
+    "Turn-based strategy (TBS)",
+    "Tactical"
+   ],
+   "note": 88,
+   "video": "owBPVDifi7A",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4nqk.jpg"
+  },
+  {
+   "id": 138211,
+   "nom": "Ova Magica",
+   "date": "2026-11-10",
+   "genres": [
+    "Role-playing (RPG)",
+    "Simulator",
+    "Indie"
+   ],
+   "note": null,
+   "video": "nPSI0okfs5E",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2k81.jpg"
+  },
+  {
+   "id": 360748,
+   "nom": "Raccoin: Coin Pusher Roguelike",
+   "date": "2026-11-10",
+   "genres": [
+    "Simulator",
+    "Strategy",
+    "Indie",
+    "Arcade"
+   ],
+   "note": 88,
+   "video": "Yy1FcT6sfIo",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaa0s.jpg"
+  },
+  {
+   "id": 317817,
+   "nom": "Tanuki: Pon's Summer",
+   "date": "2026-11-10",
+   "genres": [
+    "Simulator",
+    "Indie"
+   ],
+   "note": null,
+   "video": "UrMS8mwiRtI",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8uyz.jpg"
+  },
+  {
+   "id": 420884,
+   "nom": "Football Manager 27",
+   "date": "2026-11-10",
+   "genres": [
+    "Simulator",
+    "Sport",
+    "Strategy"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod0sj.jpg"
+  },
+  {
+   "id": 424208,
+   "nom": "Shrek 2 Remastered",
+   "date": "2026-11-10",
+   "genres": [
+    "Platform",
+    "Adventure"
+   ],
+   "note": null,
+   "video": "6qjCMqy1fAk",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod6wd.jpg"
+  },
+  {
+   "id": 376145,
+   "nom": "Warhammer Survivors",
+   "date": "2026-11-10",
+   "genres": [
+    "Role-playing (RPG)",
+    "Indie",
+    "Arcade"
+   ],
+   "note": null,
+   "video": "P5E_EaxN1qo",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coasoa.jpg"
+  },
+  {
+   "id": 420982,
+   "nom": "Football Manager 27 Console",
+   "date": "2026-11-10",
+   "genres": [
+    "Simulator",
+    "Sport",
+    "Strategy"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod9du.jpg"
+  },
   {
    "id": 345443,
    "nom": "Hozy",
@@ -18,6 +122,7 @@
    "nom": "Hasbro Games Junior Collection",
    "date": "2026-11-06",
    "genres": [
+    "Puzzle",
     "Strategy",
     "Card & Board Game"
    ],
@@ -247,6 +352,7 @@
    "date": "2026-11-04",
    "genres": [
     "Platform",
+    "Adventure",
     "Indie"
    ],
    "note": null,
@@ -281,6 +387,18 @@
    "note": null,
    "video": "I4C15TqYOs4",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2vzc.jpg"
+  },
+  {
+   "id": 321166,
+   "nom": "Pit of Goblin",
+   "date": "2026-11-03",
+   "genres": [
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "b5NaBM7dc5k",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/codbjj.jpg"
   },
   {
    "id": 363992,
@@ -496,6 +614,18 @@
    "note": null,
    "video": "ocSG0OKEGog",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocb9n.jpg"
+  },
+  {
+   "id": 308509,
+   "nom": "Mystery Detective Adventure",
+   "date": "2026-10-29",
+   "genres": [
+    "Puzzle",
+    "Adventure"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8ig8.jpg"
   },
   {
    "id": 427247,
@@ -940,7 +1070,7 @@
     "Indie"
    ],
    "note": null,
-   "video": "xpUjpHIAtO8",
+   "video": null,
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc0i7.jpg"
   },
   {
@@ -1019,7 +1149,7 @@
     "Puzzle",
     "Adventure"
    ],
-   "note": 87,
+   "note": 85,
    "video": "lKI7DVrhWL8",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9jkt.jpg"
   },
@@ -1046,67 +1176,6 @@
    "note": null,
    "video": "7AJIJ847PNo",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobtql.jpg"
-  },
-  {
-   "id": 319650,
-   "nom": "Ayasa: Shadows of Silence",
-   "date": "2026-10-26",
-   "genres": [
-    "Platform",
-    "Puzzle",
-    "Adventure"
-   ],
-   "note": 46,
-   "video": "1Upsz0cjoNY",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9s6k.jpg"
-  },
-  {
-   "id": 422118,
-   "nom": "Boarding Denied",
-   "date": "2026-10-26",
-   "genres": [
-    "Puzzle",
-    "Simulator"
-   ],
-   "note": null,
-   "video": "3Yq0iQ2LVNs",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod2t4.jpg"
-  },
-  {
-   "id": 416105,
-   "nom": "Hunter's Moon",
-   "date": "2026-10-26",
-   "genres": [
-    "Adventure"
-   ],
-   "note": null,
-   "video": "bKMaeHoJY2A",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coctlj.jpg"
-  },
-  {
-   "id": 349380,
-   "nom": "Fangtopia",
-   "date": "2026-10-26",
-   "genres": [
-    "Puzzle",
-    "Simulator",
-    "Strategy",
-    "Indie"
-   ],
-   "note": null,
-   "video": "4P1RLw1WiZA",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coct9k.jpg"
-  },
-  {
-   "id": 341065,
-   "nom": "Breach Signal",
-   "date": "2026-10-26",
-   "genres": [
-    "Indie"
-   ],
-   "note": null,
-   "video": "VXzP6tL5j3s",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9pks.jpg"
   }
  ]
 }

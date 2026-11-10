@@ -1,6 +1,34 @@
 {
- "maj": "2026-11-09 15:41",
+ "maj": "2026-11-10 14:36",
  "jeux": [
+  {
+   "id": 236547,
+   "nom": "Thronefall",
+   "date": "2026-11-11",
+   "genres": [
+    "Fighting",
+    "Strategy",
+    "Tactical",
+    "Adventure",
+    "Indie",
+    "Arcade"
+   ],
+   "note": null,
+   "video": "6-fd13vxfIc",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8ydi.jpg"
+  },
+  {
+   "id": 394548,
+   "nom": "Prinny Party: Going Overboard!",
+   "date": "2026-11-11",
+   "genres": [
+    "Role-playing (RPG)",
+    "Strategy"
+   ],
+   "note": 75,
+   "video": "xADOCWgmrT0",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocje8.jpg"
+  },
   {
    "id": 116014,
    "nom": "Hard West 2",
@@ -129,6 +157,18 @@
    "note": null,
    "video": "XCBjoeFX-e4",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocm0w.jpg"
+  },
+  {
+   "id": 428613,
+   "nom": "Assassin's Creed Valhalla: Title Update 1.8.0",
+   "date": "2026-11-05",
+   "genres": [
+    "Role-playing (RPG)",
+    "Adventure"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/codbnu.jpg"
   },
   {
    "id": 428006,
@@ -770,7 +810,7 @@
     "Adventure",
     "Indie"
    ],
-   "note": 87,
+   "note": 88,
    "video": "zUXapDkoLss",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co70oi.jpg"
   },
@@ -867,7 +907,7 @@
   },
   {
    "id": 411706,
-   "nom": "Croc 2: Kingdom of the Gobbos",
+   "nom": "Croc 2 Kingdom of the Gobbos",
    "date": "2026-10-29",
    "genres": [
     "Platform",
@@ -1099,83 +1139,6 @@
    "note": null,
    "video": "1hrRMm5horM",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc3jf.jpg"
-  },
-  {
-   "id": 356956,
-   "nom": "Treasure Tiger",
-   "date": "2026-10-27",
-   "genres": [
-    "Simulator",
-    "Strategy",
-    "Indie"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa65a.jpg"
-  },
-  {
-   "id": 249845,
-   "nom": "Paths of Fight: Samurai",
-   "date": "2026-10-27",
-   "genres": [
-    "Puzzle",
-    "Strategy",
-    "Turn-based strategy (TBS)",
-    "Hack and slash/Beat 'em up",
-    "Adventure"
-   ],
-   "note": null,
-   "video": "NE-MYfv1w50",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6wzf.jpg"
-  },
-  {
-   "id": 417896,
-   "nom": "Dog Man: Bark in Action",
-   "date": "2026-10-27",
-   "genres": [
-    "Platform",
-    "Adventure",
-    "Arcade"
-   ],
-   "note": null,
-   "video": "e0ICEISJUnY",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/codb3l.jpg"
-  },
-  {
-   "id": 335833,
-   "nom": "The Séance of Blake Manor",
-   "date": "2026-10-27",
-   "genres": [
-    "Puzzle",
-    "Adventure"
-   ],
-   "note": 85,
-   "video": "lKI7DVrhWL8",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9jkt.jpg"
-  },
-  {
-   "id": 394670,
-   "nom": "Remothered: Red Nun's Legacy",
-   "date": "2026-10-27",
-   "genres": [
-    "Puzzle",
-    "Adventure"
-   ],
-   "note": null,
-   "video": "npCgE3YjmEk",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobrbr.jpg"
-  },
-  {
-   "id": 358537,
-   "nom": "Village in the Shade",
-   "date": "2026-10-27",
-   "genres": [
-    "Simulator",
-    "Adventure"
-   ],
-   "note": null,
-   "video": "7AJIJ847PNo",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobtql.jpg"
   }
  ]
 }

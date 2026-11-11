@@ -1,6 +1,51 @@
 {
- "maj": "2026-11-10 14:36",
+ "maj": "2026-11-11 13:51",
  "jeux": [
+  {
+   "id": 425953,
+   "nom": "Supermarket: Tidy Up!",
+   "date": "2026-11-12",
+   "genres": [
+    "Simulator"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod8kg.jpg"
+  },
+  {
+   "id": 383739,
+   "nom": "Weed Supermarket Simulator",
+   "date": "2026-11-12",
+   "genres": [
+    "Simulator",
+    "Indie"
+   ],
+   "note": null,
+   "video": "6ztTTDBhT1M",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob6eq.jpg"
+  },
+  {
+   "id": 371097,
+   "nom": "Hazard Levels",
+   "date": "2026-11-12",
+   "genres": [
+    "Adventure"
+   ],
+   "note": null,
+   "video": "MWUYC4dQUh4",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coat36.jpg"
+  },
+  {
+   "id": 404714,
+   "nom": "Sonic Pico Park",
+   "date": "2026-11-12",
+   "genres": [
+    "Puzzle"
+   ],
+   "note": null,
+   "video": "RFg-S2seDqU",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocowo.jpg"
+  },
   {
    "id": 236547,
    "nom": "Thronefall",
@@ -28,6 +73,17 @@
    "note": 75,
    "video": "xADOCWgmrT0",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocje8.jpg"
+  },
+  {
+   "id": 250615,
+   "nom": "Fairgames",
+   "date": "2026-11-10",
+   "genres": [
+    "Adventure"
+   ],
+   "note": null,
+   "video": "l1Jp4K02L1I",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6jbe.jpg"
   },
   {
    "id": 116014,
@@ -116,7 +172,7 @@
     "Indie",
     "Arcade"
    ],
-   "note": null,
+   "note": 78,
    "video": "P5E_EaxN1qo",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coasoa.jpg"
   },
@@ -157,6 +213,19 @@
    "note": null,
    "video": "XCBjoeFX-e4",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocm0w.jpg"
+  },
+  {
+   "id": 3585,
+   "nom": "Re-Volt",
+   "date": "2026-11-05",
+   "genres": [
+    "Racing",
+    "Sport",
+    "Arcade"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1n29.jpg"
   },
   {
    "id": 428613,
@@ -222,6 +291,7 @@
    "nom": "Faraway",
    "date": "2026-11-05",
    "genres": [
+    "Puzzle",
     "Indie",
     "Arcade"
    ],
@@ -1017,128 +1087,6 @@
    "note": 78,
    "video": "WXchEIP5vIo",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co90no.jpg"
-  },
-  {
-   "id": 243924,
-   "nom": "Primal Planet",
-   "date": "2026-10-28",
-   "genres": [
-    "Platform",
-    "Role-playing (RPG)",
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "n418LLl20u4",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa6u1.jpg"
-  },
-  {
-   "id": 381087,
-   "nom": "Frog Sqwad",
-   "date": "2026-10-28",
-   "genres": [
-    "Platform",
-    "Puzzle",
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "x2BGF12nGU8",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob00u.jpg"
-  },
-  {
-   "id": 31292,
-   "nom": "Darkness and Flame: Born of Fire",
-   "date": "2026-10-28",
-   "genres": [
-    "Puzzle",
-    "Adventure"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3o4q.jpg"
-  },
-  {
-   "id": 317533,
-   "nom": "Snø: Ultimate Freeriding",
-   "date": "2026-10-28",
-   "genres": [
-    "Racing",
-    "Simulator",
-    "Sport",
-    "Indie"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9g10.jpg"
-  },
-  {
-   "id": 233970,
-   "nom": "Sulfur",
-   "date": "2026-10-28",
-   "genres": [
-    "Shooter",
-    "Role-playing (RPG)",
-    "Simulator",
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "9WsdFbJF228",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6a6w.jpg"
-  },
-  {
-   "id": 172817,
-   "nom": "Fallen City Brawl",
-   "date": "2026-10-28",
-   "genres": [
-    "Fighting",
-    "Indie"
-   ],
-   "note": null,
-   "video": "CUcVaKUb5uE",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3wyi.jpg"
-  },
-  {
-   "id": 361052,
-   "nom": "Rogue Reigns",
-   "date": "2026-10-28",
-   "genres": [
-    "Role-playing (RPG)",
-    "Strategy",
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc0i7.jpg"
-  },
-  {
-   "id": 252013,
-   "nom": "Gennady",
-   "date": "2026-10-28",
-   "genres": [
-    "Platform",
-    "Adventure",
-    "Indie",
-    "Arcade"
-   ],
-   "note": null,
-   "video": "9u_i5JUK6GM",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9lr0.jpg"
-  },
-  {
-   "id": 402530,
-   "nom": "Anomalith",
-   "date": "2026-10-28",
-   "genres": [
-    "Shooter",
-    "Role-playing (RPG)",
-    "Adventure"
-   ],
-   "note": null,
-   "video": "1hrRMm5horM",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc3jf.jpg"
   }
  ]
 }

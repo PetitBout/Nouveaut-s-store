@@ -1,6 +1,80 @@
 {
- "maj": "2026-11-11 13:51",
+ "maj": "2026-11-12 14:53",
  "jeux": [
+  {
+   "id": 426460,
+   "nom": "QUTAS67: Qubic Ultimate Tap Adventure Simulator 2067",
+   "date": "2026-11-13",
+   "genres": [
+    "Simulator",
+    "Indie",
+    "Card & Board Game"
+   ],
+   "note": null,
+   "video": "d8-J-rpKlM0",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod92c.jpg"
+  },
+  {
+   "id": 206842,
+   "nom": "Derelikt",
+   "date": "2026-11-13",
+   "genres": [
+    "Shooter",
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "u3a_3vzvQqY",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa07m.jpg"
+  },
+  {
+   "id": 347820,
+   "nom": "Leaf Blower Co.",
+   "date": "2026-11-13",
+   "genres": [
+    "Simulator",
+    "Indie"
+   ],
+   "note": null,
+   "video": "B6b9ARfNu7U",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xmt.jpg"
+  },
+  {
+   "id": 404342,
+   "nom": "Bombanana!",
+   "date": "2026-11-13",
+   "genres": [
+    "Puzzle",
+    "Indie"
+   ],
+   "note": null,
+   "video": "Zrw27jqSxPU",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc665.jpg"
+  },
+  {
+   "id": 429337,
+   "nom": "Arcade Archives 2: Rezon",
+   "date": "2026-11-12",
+   "genres": [
+    "Shooter",
+    "Arcade"
+   ],
+   "note": null,
+   "video": "fr3LlQGA4NU",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/codczj.jpg"
+  },
+  {
+   "id": 429336,
+   "nom": "Arcade Archives 2: Shot Rider",
+   "date": "2026-11-12",
+   "genres": [
+    "Racing",
+    "Arcade"
+   ],
+   "note": null,
+   "video": "-A4w6fuGi2o",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/codczg.jpg"
+  },
   {
    "id": 425953,
    "nom": "Supermarket: Tidy Up!",
@@ -174,7 +248,7 @@
    ],
    "note": 78,
    "video": "P5E_EaxN1qo",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coasoa.jpg"
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/codcp8.jpg"
   },
   {
    "id": 420982,
@@ -280,7 +354,9 @@
    "date": "2026-11-05",
    "genres": [
     "Puzzle",
-    "Adventure"
+    "Simulator",
+    "Adventure",
+    "Visual Novel"
    ],
    "note": 83,
    "video": "owh9OAeOMYQ",
@@ -564,7 +640,7 @@
    "genres": [
     "Music"
    ],
-   "note": null,
+   "note": 65,
    "video": "d16zccHDscM",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocn1s.jpg"
   },
@@ -724,369 +800,6 @@
    "note": null,
    "video": "ocSG0OKEGog",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocb9n.jpg"
-  },
-  {
-   "id": 308509,
-   "nom": "Mystery Detective Adventure",
-   "date": "2026-10-29",
-   "genres": [
-    "Puzzle",
-    "Adventure"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8ig8.jpg"
-  },
-  {
-   "id": 427247,
-   "nom": "Console Archives: Marl Jong",
-   "date": "2026-10-29",
-   "genres": [
-    "Puzzle",
-    "Card & Board Game"
-   ],
-   "note": null,
-   "video": "C4GzxIwOVCs",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coda4b.jpg"
-  },
-  {
-   "id": 426977,
-   "nom": "SimsalaGrimm: The Chaos Crystal",
-   "date": "2026-10-29",
-   "genres": [
-    "Point-and-click",
-    "Puzzle",
-    "Adventure",
-    "Card & Board Game"
-   ],
-   "note": null,
-   "video": "Bf6Lnct6Bf8",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod9pm.jpg"
-  },
-  {
-   "id": 161365,
-   "nom": "Beyond the Evil",
-   "date": "2026-10-29",
-   "genres": [
-    "Puzzle",
-    "Indie"
-   ],
-   "note": null,
-   "video": "WYIAG0n7v7Q",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co63pt.jpg"
-  },
-  {
-   "id": 314090,
-   "nom": "Deadly Days: Roadtrip",
-   "date": "2026-10-29",
-   "genres": [
-    "Hack and slash/Beat 'em up",
-    "Indie"
-   ],
-   "note": null,
-   "video": "Yf6IhWmxzk8",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaiyz.jpg"
-  },
-  {
-   "id": 167750,
-   "nom": "HyperViolent",
-   "date": "2026-10-29",
-   "genres": [
-    "Shooter",
-    "Role-playing (RPG)",
-    "Indie"
-   ],
-   "note": null,
-   "video": "q6hkQGu8x-k",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coahmz.jpg"
-  },
-  {
-   "id": 426458,
-   "nom": "Arcade Archives 2: Swimmer",
-   "date": "2026-10-29",
-   "genres": [
-    "Platform",
-    "Arcade"
-   ],
-   "note": null,
-   "video": "IPLGemw_lw8",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod92a.jpg"
-  },
-  {
-   "id": 426412,
-   "nom": "Arcade Archives 2: Prehistoric Isle",
-   "date": "2026-10-29",
-   "genres": [
-    "Shooter",
-    "Arcade"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod912.jpg"
-  },
-  {
-   "id": 358272,
-   "nom": "Hellbound, Inc.",
-   "date": "2026-10-29",
-   "genres": [
-    "Platform",
-    "Puzzle",
-    "Indie"
-   ],
-   "note": null,
-   "video": "EOasLsUCg2w",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa92f.jpg"
-  },
-  {
-   "id": 426159,
-   "nom": "White Box Quiz",
-   "date": "2026-10-29",
-   "genres": [
-    "Quiz/Trivia"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod9at.jpg"
-  },
-  {
-   "id": 192035,
-   "nom": "Hatsune Miku Connecting Puzzle Tamagotori",
-   "date": "2026-10-29",
-   "genres": [
-    "Music",
-    "Puzzle"
-   ],
-   "note": null,
-   "video": "ivVqzCMK7Eg",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6i23.jpg"
-  },
-  {
-   "id": 373580,
-   "nom": "RV There Yet?",
-   "date": "2026-10-29",
-   "genres": [
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "H7mXFwVNX6Y",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocvke.jpg"
-  },
-  {
-   "id": 264410,
-   "nom": "Mouthwashing",
-   "date": "2026-10-29",
-   "genres": [
-    "Adventure",
-    "Indie"
-   ],
-   "note": 88,
-   "video": "zUXapDkoLss",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co70oi.jpg"
-  },
-  {
-   "id": 384358,
-   "nom": "Titanium Court",
-   "date": "2026-10-29",
-   "genres": [
-    "Puzzle",
-    "Strategy",
-    "Turn-based strategy (TBS)",
-    "Tactical",
-    "Indie"
-   ],
-   "note": 74,
-   "video": "xSxuuoYkR3o",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobdts.jpg"
-  },
-  {
-   "id": 379670,
-   "nom": "Love: Fall in Death",
-   "date": "2026-10-29",
-   "genres": [
-    "Simulator",
-    "Adventure",
-    "Indie",
-    "Visual Novel"
-   ],
-   "note": null,
-   "video": "ALCpyVu23Z4",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocuwv.jpg"
-  },
-  {
-   "id": 404798,
-   "nom": "The Zibbo Show",
-   "date": "2026-10-29",
-   "genres": [
-    "Strategy",
-    "Indie"
-   ],
-   "note": null,
-   "video": "bUxihFEgxug",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc6wa.jpg"
-  },
-  {
-   "id": 391801,
-   "nom": "Curse of Resthaven",
-   "date": "2026-10-29",
-   "genres": [
-    "Adventure"
-   ],
-   "note": null,
-   "video": "-TXPgm5KGa0",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobli5.jpg"
-  },
-  {
-   "id": 410054,
-   "nom": "Coloratura",
-   "date": "2026-10-29",
-   "genres": [
-    "Music",
-    "Puzzle",
-    "Adventure"
-   ],
-   "note": null,
-   "video": "n_cSzvxXpzE",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coce36.jpg"
-  },
-  {
-   "id": 50199,
-   "nom": "Metro: Last Light Redux",
-   "date": "2026-10-29",
-   "genres": [
-    "Shooter",
-    "Role-playing (RPG)",
-    "Adventure"
-   ],
-   "note": null,
-   "video": "ziDwiguySWo",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coar10.jpg"
-  },
-  {
-   "id": 80853,
-   "nom": "Metro 2033 Redux",
-   "date": "2026-10-29",
-   "genres": [
-    "Shooter",
-    "Role-playing (RPG)",
-    "Adventure"
-   ],
-   "note": null,
-   "video": "ziDwiguySWo",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coar0z.jpg"
-  },
-  {
-   "id": 411706,
-   "nom": "Croc 2 Kingdom of the Gobbos",
-   "date": "2026-10-29",
-   "genres": [
-    "Platform",
-    "Adventure"
-   ],
-   "note": null,
-   "video": "vnmABQFbE-Y",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coclf8.jpg"
-  },
-  {
-   "id": 273790,
-   "nom": "The Transference",
-   "date": "2026-10-29",
-   "genres": [
-    "Puzzle",
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "NHBWN7b7Lmo",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod2bi.jpg"
-  },
-  {
-   "id": 398336,
-   "nom": "Planted!",
-   "date": "2026-10-29",
-   "genres": [
-    "Indie",
-    "Arcade"
-   ],
-   "note": null,
-   "video": "m-Iv8wkwjks",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobxc6.jpg"
-  },
-  {
-   "id": 296564,
-   "nom": "Terrible Lizards",
-   "date": "2026-10-29",
-   "genres": [
-    "Platform",
-    "Adventure",
-    "Indie"
-   ],
-   "note": 70,
-   "video": "iUY6bFjivWU",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coboiu.jpg"
-  },
-  {
-   "id": 404716,
-   "nom": "The Wolf Among Us Remastered",
-   "date": "2026-10-29",
-   "genres": [
-    "Point-and-click",
-    "Role-playing (RPG)",
-    "Adventure"
-   ],
-   "note": 86,
-   "video": "HhpFCnyfXHg",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc6r3.jpg"
-  },
-  {
-   "id": 323189,
-   "nom": "Hunting Simulator 3",
-   "date": "2026-10-29",
-   "genres": [
-    "Shooter",
-    "Simulator"
-   ],
-   "note": null,
-   "video": "kdgO9IDeUxc",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co92w5.jpg"
-  },
-  {
-   "id": 413260,
-   "nom": "Phantom Blade Zero: Digital Deluxe Edition",
-   "date": "2026-10-29",
-   "genres": [
-    "Fighting",
-    "Role-playing (RPG)",
-    "Hack and slash/Beat 'em up"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cococf.jpg"
-  },
-  {
-   "id": 250618,
-   "nom": "Phantom Blade Zero",
-   "date": "2026-10-29",
-   "genres": [
-    "Role-playing (RPG)",
-    "Hack and slash/Beat 'em up",
-    "Adventure"
-   ],
-   "note": 88,
-   "video": "pueXBkFMK7Q",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cococe.jpg"
-  },
-  {
-   "id": 320972,
-   "nom": "Steins;Gate Re:Boot",
-   "date": "2026-10-29",
-   "genres": [
-    "Adventure",
-    "Visual Novel"
-   ],
-   "note": 78,
-   "video": "WXchEIP5vIo",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co90no.jpg"
   }
  ]
 }

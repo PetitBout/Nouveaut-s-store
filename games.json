@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-12 14:53",
+ "maj": "2026-11-13 14:17",
  "jeux": [
   {
    "id": 426460,
@@ -50,6 +50,19 @@
    "note": null,
    "video": "Zrw27jqSxPU",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc665.jpg"
+  },
+  {
+   "id": 425025,
+   "nom": "Good President Simulator",
+   "date": "2026-11-12",
+   "genres": [
+    "Simulator",
+    "Strategy",
+    "Indie"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod76b.jpg"
   },
   {
    "id": 429337,
@@ -132,7 +145,7 @@
     "Indie",
     "Arcade"
    ],
-   "note": null,
+   "note": 80,
    "video": "6-fd13vxfIc",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8ydi.jpg"
   },
@@ -287,6 +300,18 @@
    "note": null,
    "video": "XCBjoeFX-e4",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocm0w.jpg"
+  },
+  {
+   "id": 374584,
+   "nom": "Cleaning Simulator",
+   "date": "2026-11-05",
+   "genres": [
+    "Simulator",
+    "Indie"
+   ],
+   "note": null,
+   "video": "BnJg03aTNtU",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaq4p.jpg"
   },
   {
    "id": 3585,
@@ -533,6 +558,19 @@
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobz5q.jpg"
   },
   {
+   "id": 429419,
+   "nom": "Hypermarket: Sort & Stock",
+   "date": "2026-11-04",
+   "genres": [
+    "Puzzle",
+    "Simulator",
+    "Indie"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/codd86.jpg"
+  },
+  {
    "id": 191656,
    "nom": "We are Eva",
    "date": "2026-11-04",
@@ -676,6 +714,19 @@
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/codb87.jpg"
   },
   {
+   "id": 429433,
+   "nom": "For The Warp: Void Echoes",
+   "date": "2026-11-01",
+   "genres": [
+    "Strategy",
+    "Indie",
+    "Card & Board Game"
+   ],
+   "note": null,
+   "video": "HxspMCgOdW8",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/codd56.jpg"
+  },
+  {
    "id": 65764,
    "nom": "Steins;Gate: Octet of Shifting Space",
    "date": "2026-11-01",
@@ -699,107 +750,6 @@
    "note": null,
    "video": "9MHlz_-uc8Y",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9rpa.jpg"
-  },
-  {
-   "id": 427269,
-   "nom": "Tidebreak",
-   "date": "2026-10-30",
-   "genres": [
-    "Shooter",
-    "Arcade"
-   ],
-   "note": null,
-   "video": "NozjCsYdocM",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coda5j.jpg"
-  },
-  {
-   "id": 426714,
-   "nom": "Resonance of Fate Enhanced Remaster",
-   "date": "2026-10-30",
-   "genres": [
-    "Role-playing (RPG)",
-    "Strategy"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod9i4.jpg"
-  },
-  {
-   "id": 332788,
-   "nom": "The Night of the Exorcism",
-   "date": "2026-10-30",
-   "genres": [
-    "Adventure",
-    "Visual Novel"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9haz.jpg"
-  },
-  {
-   "id": 328140,
-   "nom": "Look Outside",
-   "date": "2026-10-30",
-   "genres": [
-    "Role-playing (RPG)",
-    "Strategy",
-    "Turn-based strategy (TBS)",
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "bJOEQQYigxY",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9k8n.jpg"
-  },
-  {
-   "id": 258775,
-   "nom": "Queen's Domain",
-   "date": "2026-10-30",
-   "genres": [
-    "Role-playing (RPG)",
-    "Adventure",
-    "Indie"
-   ],
-   "note": 95,
-   "video": "ShsY9k1stzY",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coda8t.jpg"
-  },
-  {
-   "id": 86391,
-   "nom": "Asylum",
-   "date": "2026-10-30",
-   "genres": [
-    "Point-and-click",
-    "Puzzle",
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "aXs4Fysxsc4",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ph6.jpg"
-  },
-  {
-   "id": 333871,
-   "nom": "Suri: The Seventh Note",
-   "date": "2026-10-30",
-   "genres": [
-    "Music",
-    "Platform",
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "LOg0r2yGG4s",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod0l5.jpg"
-  },
-  {
-   "id": 403720,
-   "nom": "The Cat in the Hat: Rainy Day Mayhem",
-   "date": "2026-10-30",
-   "genres": [],
-   "note": null,
-   "video": "ocSG0OKEGog",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocb9n.jpg"
   }
  ]
 }

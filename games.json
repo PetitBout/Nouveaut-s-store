@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-13 14:17",
+ "maj": "2026-11-14 13:14",
  "jeux": [
+  {
+   "id": 429258,
+   "nom": "Dongda Gangster",
+   "date": "2026-11-15",
+   "genres": [
+    "Point-and-click",
+    "Adventure"
+   ],
+   "note": null,
+   "video": "Icyjj8VHqgc",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/codct4.jpg"
+  },
   {
    "id": 426460,
    "nom": "QUTAS67: Qubic Ultimate Tap Adventure Simulator 2067",
@@ -325,18 +337,6 @@
    "note": null,
    "video": null,
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1n29.jpg"
-  },
-  {
-   "id": 428613,
-   "nom": "Assassin's Creed Valhalla: Title Update 1.8.0",
-   "date": "2026-11-05",
-   "genres": [
-    "Role-playing (RPG)",
-    "Adventure"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/codbnu.jpg"
   },
   {
    "id": 428006,
@@ -737,19 +737,6 @@
    "note": null,
    "video": null,
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6bl6.jpg"
-  },
-  {
-   "id": 120814,
-   "nom": "HorrorVale",
-   "date": "2026-10-31",
-   "genres": [
-    "Role-playing (RPG)",
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "9MHlz_-uc8Y",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9rpa.jpg"
   }
  ]
 }

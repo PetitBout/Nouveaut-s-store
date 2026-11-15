@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-14 13:14",
+ "maj": "2026-11-15 13:42",
  "jeux": [
   {
    "id": 429258,
@@ -12,6 +12,19 @@
    "note": null,
    "video": "Icyjj8VHqgc",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/codct4.jpg"
+  },
+  {
+   "id": 216641,
+   "nom": "Empires Shall Fall",
+   "date": "2026-11-13",
+   "genres": [
+    "Shooter",
+    "Strategy",
+    "Turn-based strategy (TBS)"
+   ],
+   "note": null,
+   "video": "TmUNSQ0MEnQ",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7pyl.jpg"
   },
   {
    "id": 426460,
@@ -62,6 +75,30 @@
    "note": null,
    "video": "Zrw27jqSxPU",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc665.jpg"
+  },
+  {
+   "id": 274920,
+   "nom": "Supermarket Simulator",
+   "date": "2026-11-12",
+   "genres": [
+    "Simulator",
+    "Strategy",
+    "Indie"
+   ],
+   "note": null,
+   "video": "6ZQSUpwHSq8",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa8e2.jpg"
+  },
+  {
+   "id": 413250,
+   "nom": "Autobahn Police Simulator 4",
+   "date": "2026-11-12",
+   "genres": [
+    "Simulator"
+   ],
+   "note": null,
+   "video": "5ANOeEh0ZCY",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocobo.jpg"
   },
   {
    "id": 425025,
@@ -301,6 +338,18 @@
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9v85.jpg"
   },
   {
+   "id": 147775,
+   "nom": "Checkers Master",
+   "date": "2026-11-06",
+   "genres": [
+    "Strategy",
+    "Card & Board Game"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co579w.jpg"
+  },
+  {
    "id": 412107,
    "nom": "Hasbro Games Junior Collection",
    "date": "2026-11-06",
@@ -314,6 +363,42 @@
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocm0w.jpg"
   },
   {
+   "id": 429545,
+   "nom": "Re-Volt",
+   "date": "2026-11-05",
+   "genres": [
+    "Racing"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coddbj.jpg"
+  },
+  {
+   "id": 392877,
+   "nom": "Alex the Rabbit",
+   "date": "2026-11-05",
+   "genres": [
+    "Platform",
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "OJelq_xg50M",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobnqo.jpg"
+  },
+  {
+   "id": 361595,
+   "nom": "Hell of Fear: Mind Breach",
+   "date": "2026-11-05",
+   "genres": [
+    "Shooter",
+    "Adventure"
+   ],
+   "note": null,
+   "video": "amOAkHY3rCo",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coabqn.jpg"
+  },
+  {
    "id": 374584,
    "nom": "Cleaning Simulator",
    "date": "2026-11-05",
@@ -324,6 +409,31 @@
    "note": null,
    "video": "BnJg03aTNtU",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaq4p.jpg"
+  },
+  {
+   "id": 330563,
+   "nom": "Gemporium",
+   "date": "2026-11-05",
+   "genres": [
+    "Simulator",
+    "Indie"
+   ],
+   "note": null,
+   "video": "3R1C11-MIAU",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9tzk.jpg"
+  },
+  {
+   "id": 334494,
+   "nom": "Revenant: In Memory Of The Day",
+   "date": "2026-11-05",
+   "genres": [
+    "Simulator",
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9i2c.jpg"
   },
   {
    "id": 3585,
@@ -613,6 +723,20 @@
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2vzc.jpg"
   },
   {
+   "id": 148990,
+   "nom": "Cat President 2: Purrlitical Revolution",
+   "date": "2026-11-03",
+   "genres": [
+    "Simulator",
+    "Adventure",
+    "Indie",
+    "Visual Novel"
+   ],
+   "note": null,
+   "video": "N-DHAni1y7Y",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3myb.jpg"
+  },
+  {
    "id": 321166,
    "nom": "Pit of Goblin",
    "date": "2026-11-03",
@@ -665,7 +789,8 @@
    "genres": [
     "Point-and-click",
     "Role-playing (RPG)",
-    "Adventure"
+    "Adventure",
+    "Indie"
    ],
    "note": null,
    "video": "C_acH7Wx1Ew",
@@ -712,31 +837,6 @@
    "note": null,
    "video": null,
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/codb87.jpg"
-  },
-  {
-   "id": 429433,
-   "nom": "For The Warp: Void Echoes",
-   "date": "2026-11-01",
-   "genres": [
-    "Strategy",
-    "Indie",
-    "Card & Board Game"
-   ],
-   "note": null,
-   "video": "HxspMCgOdW8",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/codd56.jpg"
-  },
-  {
-   "id": 65764,
-   "nom": "Steins;Gate: Octet of Shifting Space",
-   "date": "2026-11-01",
-   "genres": [
-    "Adventure",
-    "Visual Novel"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6bl6.jpg"
   }
  ]
 }

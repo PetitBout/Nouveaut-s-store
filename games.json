@@ -1,6 +1,78 @@
 {
- "maj": "2026-11-15 13:42",
+ "maj": "2026-11-16 15:17",
  "jeux": [
+  {
+   "id": 429118,
+   "nom": "Legacy of Kain: Soul Reaver 2",
+   "date": "2026-11-17",
+   "genres": [
+    "Adventure"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/codcky.jpg"
+  },
+  {
+   "id": 318167,
+   "nom": "Duck Side of the Moon",
+   "date": "2026-11-17",
+   "genres": [
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "Xo_05ELmrD4",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobybd.jpg"
+  },
+  {
+   "id": 416114,
+   "nom": "Ratchet & Clank",
+   "date": "2026-11-17",
+   "genres": [
+    "Shooter",
+    "Platform",
+    "Adventure"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coctk4.jpg"
+  },
+  {
+   "id": 237123,
+   "nom": "Moonlight Peaks",
+   "date": "2026-11-17",
+   "genres": [
+    "Role-playing (RPG)",
+    "Simulator",
+    "Indie"
+   ],
+   "note": 66,
+   "video": "FEL1rn69Z7Y",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9vvs.jpg"
+  },
+  {
+   "id": 366709,
+   "nom": "Ranger’s Path: National Park Simulator",
+   "date": "2026-11-17",
+   "genres": [
+    "Simulator",
+    "Adventure"
+   ],
+   "note": null,
+   "video": "yytJLrj86V4",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coafye.jpg"
+  },
+  {
+   "id": 410966,
+   "nom": "Unicorn Academy: Island of Magic",
+   "date": "2026-11-17",
+   "genres": [
+    "Adventure"
+   ],
+   "note": null,
+   "video": "tdRQUcVoBsM",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocjz3.jpg"
+  },
   {
    "id": 429258,
    "nom": "Dongda Gangster",
@@ -165,6 +237,7 @@
    "nom": "Hazard Levels",
    "date": "2026-11-12",
    "genres": [
+    "Shooter",
     "Adventure"
    ],
    "note": null,
@@ -423,6 +496,19 @@
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9tzk.jpg"
   },
   {
+   "id": 419677,
+   "nom": "Old Market Restored",
+   "date": "2026-11-05",
+   "genres": [
+    "Puzzle",
+    "Simulator",
+    "Indie"
+   ],
+   "note": null,
+   "video": "JEH_ES7lS38",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocz2k.jpg"
+  },
+  {
    "id": 334494,
    "nom": "Revenant: In Memory Of The Day",
    "date": "2026-11-05",
@@ -434,19 +520,6 @@
    "note": null,
    "video": null,
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9i2c.jpg"
-  },
-  {
-   "id": 3585,
-   "nom": "Re-Volt",
-   "date": "2026-11-05",
-   "genres": [
-    "Racing",
-    "Sport",
-    "Arcade"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1n29.jpg"
   },
   {
    "id": 428006,
@@ -681,6 +754,20 @@
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/codd86.jpg"
   },
   {
+   "id": 343234,
+   "nom": "House Builder 2",
+   "date": "2026-11-04",
+   "genres": [
+    "Puzzle",
+    "Simulator",
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "7m4_Beie6sI",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod9ot.jpg"
+  },
+  {
    "id": 191656,
    "nom": "We are Eva",
    "date": "2026-11-04",
@@ -826,17 +913,6 @@
    "note": 78,
    "video": "8N9QN4X1pIk",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coctec.jpg"
-  },
-  {
-   "id": 428274,
-   "nom": "Mystery Suspect",
-   "date": "2026-11-02",
-   "genres": [
-    "Puzzle"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/codb87.jpg"
   }
  ]
 }

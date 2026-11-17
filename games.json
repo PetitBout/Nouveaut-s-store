@@ -1,6 +1,32 @@
 {
- "maj": "2026-11-16 15:17",
+ "maj": "2026-11-17 15:44",
  "jeux": [
+  {
+   "id": 331378,
+   "nom": "Vice: Magic City Mayhem",
+   "date": "2026-11-18",
+   "genres": [
+    "Adventure"
+   ],
+   "note": null,
+   "video": "yLHHFBaGDk0",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9gne.jpg"
+  },
+  {
+   "id": 410670,
+   "nom": "Dark Rail",
+   "date": "2026-11-18",
+   "genres": [
+    "Simulator",
+    "Strategy",
+    "Turn-based strategy (TBS)",
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "rovuWnbKQ-k",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/codchm.jpg"
+  },
   {
    "id": 429118,
    "nom": "Legacy of Kain: Soul Reaver 2",
@@ -368,7 +394,7 @@
     "Platform",
     "Adventure"
    ],
-   "note": null,
+   "note": 40,
    "video": "6qjCMqy1fAk",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod6wd.jpg"
   },
@@ -808,111 +834,6 @@
    "note": null,
    "video": "I4C15TqYOs4",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2vzc.jpg"
-  },
-  {
-   "id": 148990,
-   "nom": "Cat President 2: Purrlitical Revolution",
-   "date": "2026-11-03",
-   "genres": [
-    "Simulator",
-    "Adventure",
-    "Indie",
-    "Visual Novel"
-   ],
-   "note": null,
-   "video": "N-DHAni1y7Y",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3myb.jpg"
-  },
-  {
-   "id": 321166,
-   "nom": "Pit of Goblin",
-   "date": "2026-11-03",
-   "genres": [
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "b5NaBM7dc5k",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/codbjj.jpg"
-  },
-  {
-   "id": 363992,
-   "nom": "Solo Leveling: Arise Overdrive - Deluxe Edition",
-   "date": "2026-11-03",
-   "genres": [
-    "Role-playing (RPG)"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": null
-  },
-  {
-   "id": 349302,
-   "nom": "Solo Leveling: Arise Overdrive",
-   "date": "2026-11-03",
-   "genres": [
-    "Role-playing (RPG)"
-   ],
-   "note": null,
-   "video": "XjJPq-3Ltak",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coakb8.jpg"
-  },
-  {
-   "id": 410158,
-   "nom": "Bowling Alley Simulator",
-   "date": "2026-11-03",
-   "genres": [
-    "Simulator",
-    "Adventure"
-   ],
-   "note": null,
-   "video": "7aTZGy9VXcM",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cociml.jpg"
-  },
-  {
-   "id": 421057,
-   "nom": "Zero Parades: Director's Cut",
-   "date": "2026-11-03",
-   "genres": [
-    "Point-and-click",
-    "Role-playing (RPG)",
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "C_acH7Wx1Ew",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod1am.jpg"
-  },
-  {
-   "id": 412639,
-   "nom": "Let’s Sing 2027",
-   "date": "2026-11-03",
-   "genres": [
-    "Music"
-   ],
-   "note": 65,
-   "video": "d16zccHDscM",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocn1s.jpg"
-  },
-  {
-   "id": 412641,
-   "nom": "Let's Sing Presents: Abba",
-   "date": "2026-11-03",
-   "genres": [],
-   "note": null,
-   "video": "A0ZONw-vPmE",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocn1w.jpg"
-  },
-  {
-   "id": 404939,
-   "nom": "Godzilla: Destroy All Monsters Melee Remastered",
-   "date": "2026-11-03",
-   "genres": [
-    "Fighting"
-   ],
-   "note": 78,
-   "video": "8N9QN4X1pIk",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coctec.jpg"
   }
  ]
 }

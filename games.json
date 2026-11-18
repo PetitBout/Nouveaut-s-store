@@ -1,6 +1,47 @@
 {
- "maj": "2026-11-17 15:44",
+ "maj": "2026-11-18 15:23",
  "jeux": [
+  {
+   "id": 286340,
+   "nom": "The House of Tesla: Definitive Edition",
+   "date": "2026-11-19",
+   "genres": [
+    "Point-and-click",
+    "Puzzle",
+    "Strategy",
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "9LR8SIjSN1s",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8tow.jpg"
+  },
+  {
+   "id": 407999,
+   "nom": "Grand Theft Auto VI: Ultimate Edition",
+   "date": "2026-11-19",
+   "genres": [
+    "Shooter",
+    "Racing",
+    "Adventure"
+   ],
+   "note": null,
+   "video": "QdBZY2fkU-0",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocver.jpg"
+  },
+  {
+   "id": 52189,
+   "nom": "Grand Theft Auto VI",
+   "date": "2026-11-19",
+   "genres": [
+    "Shooter",
+    "Racing",
+    "Adventure"
+   ],
+   "note": null,
+   "video": "QdBZY2fkU-0",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocv1v.jpg"
+  },
   {
    "id": 331378,
    "nom": "Vice: Magic City Mayhem",
@@ -765,75 +806,6 @@
    "note": null,
    "video": "IvwQcEJzNp4",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobz5q.jpg"
-  },
-  {
-   "id": 429419,
-   "nom": "Hypermarket: Sort & Stock",
-   "date": "2026-11-04",
-   "genres": [
-    "Puzzle",
-    "Simulator",
-    "Indie"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/codd86.jpg"
-  },
-  {
-   "id": 343234,
-   "nom": "House Builder 2",
-   "date": "2026-11-04",
-   "genres": [
-    "Puzzle",
-    "Simulator",
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "7m4_Beie6sI",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod9ot.jpg"
-  },
-  {
-   "id": 191656,
-   "nom": "We are Eva",
-   "date": "2026-11-04",
-   "genres": [
-    "Platform",
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "9CeIeP_Ppwo",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6m9w.jpg"
-  },
-  {
-   "id": 339626,
-   "nom": "Void/Breaker",
-   "date": "2026-11-04",
-   "genres": [
-    "Shooter",
-    "Role-playing (RPG)",
-    "Simulator",
-    "Sport",
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "CaHK-JJINQc",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9nls.jpg"
-  },
-  {
-   "id": 144971,
-   "nom": "Worship",
-   "date": "2026-11-04",
-   "genres": [
-    "Strategy",
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "I4C15TqYOs4",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2vzc.jpg"
   }
  ]
 }

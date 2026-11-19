@@ -1,6 +1,30 @@
 {
- "maj": "2026-11-18 15:23",
+ "maj": "2026-11-19 15:29",
  "jeux": [
+  {
+   "id": 429340,
+   "nom": "Geo Book",
+   "date": "2026-11-20",
+   "genres": [
+    "Quiz/Trivia"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/codczr.jpg"
+  },
+  {
+   "id": 430516,
+   "nom": "Kitsune Zero",
+   "date": "2026-11-19",
+   "genres": [
+    "Platform",
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "Ytbl6twcVuw",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/codesv.jpg"
+  },
   {
    "id": 286340,
    "nom": "The House of Tesla: Definitive Edition",
@@ -38,7 +62,7 @@
     "Racing",
     "Adventure"
    ],
-   "note": null,
+   "note": 98,
    "video": "QdBZY2fkU-0",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocv1v.jpg"
   },
@@ -501,311 +525,6 @@
    "note": null,
    "video": "XCBjoeFX-e4",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocm0w.jpg"
-  },
-  {
-   "id": 429545,
-   "nom": "Re-Volt",
-   "date": "2026-11-05",
-   "genres": [
-    "Racing"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coddbj.jpg"
-  },
-  {
-   "id": 392877,
-   "nom": "Alex the Rabbit",
-   "date": "2026-11-05",
-   "genres": [
-    "Platform",
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "OJelq_xg50M",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobnqo.jpg"
-  },
-  {
-   "id": 361595,
-   "nom": "Hell of Fear: Mind Breach",
-   "date": "2026-11-05",
-   "genres": [
-    "Shooter",
-    "Adventure"
-   ],
-   "note": null,
-   "video": "amOAkHY3rCo",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coabqn.jpg"
-  },
-  {
-   "id": 374584,
-   "nom": "Cleaning Simulator",
-   "date": "2026-11-05",
-   "genres": [
-    "Simulator",
-    "Indie"
-   ],
-   "note": null,
-   "video": "BnJg03aTNtU",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaq4p.jpg"
-  },
-  {
-   "id": 330563,
-   "nom": "Gemporium",
-   "date": "2026-11-05",
-   "genres": [
-    "Simulator",
-    "Indie"
-   ],
-   "note": null,
-   "video": "3R1C11-MIAU",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9tzk.jpg"
-  },
-  {
-   "id": 419677,
-   "nom": "Old Market Restored",
-   "date": "2026-11-05",
-   "genres": [
-    "Puzzle",
-    "Simulator",
-    "Indie"
-   ],
-   "note": null,
-   "video": "JEH_ES7lS38",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocz2k.jpg"
-  },
-  {
-   "id": 334494,
-   "nom": "Revenant: In Memory Of The Day",
-   "date": "2026-11-05",
-   "genres": [
-    "Simulator",
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9i2c.jpg"
-  },
-  {
-   "id": 428006,
-   "nom": "Arcade Archives 2: Exzisus",
-   "date": "2026-11-05",
-   "genres": [
-    "Shooter",
-    "Arcade"
-   ],
-   "note": null,
-   "video": "SgbeuylxIvk",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/codayl.jpg"
-  },
-  {
-   "id": 428001,
-   "nom": "Arcade Archives 2: Elevator Action",
-   "date": "2026-11-05",
-   "genres": [
-    "Arcade"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/codayg.jpg"
-  },
-  {
-   "id": 318082,
-   "nom": "Cat-Astrophy",
-   "date": "2026-11-05",
-   "genres": [
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "gWRGhkXWoFY",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9y2o.jpg"
-  },
-  {
-   "id": 347671,
-   "nom": "Escape Academy 2: Back 2 School",
-   "date": "2026-11-05",
-   "genres": [
-    "Puzzle",
-    "Simulator",
-    "Adventure",
-    "Visual Novel"
-   ],
-   "note": 83,
-   "video": "owh9OAeOMYQ",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xhl.jpg"
-  },
-  {
-   "id": 325275,
-   "nom": "Faraway",
-   "date": "2026-11-05",
-   "genres": [
-    "Puzzle",
-    "Indie",
-    "Arcade"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co954g.jpg"
-  },
-  {
-   "id": 188465,
-   "nom": "Light: Black Cat & Amnesia Girl",
-   "date": "2026-11-05",
-   "genres": [
-    "Puzzle",
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "vBUWU9088GQ",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5iwv.jpg"
-  },
-  {
-   "id": 420537,
-   "nom": "Dark Alley",
-   "date": "2026-11-05",
-   "genres": [
-    "Puzzle",
-    "Simulator",
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "mniEw9oJicI",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod08d.jpg"
-  },
-  {
-   "id": 420665,
-   "nom": "Next of Kin: Epiphany",
-   "date": "2026-11-05",
-   "genres": [
-    "Role-playing (RPG)",
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "0ZtEeZIt07o",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod2mg.jpg"
-  },
-  {
-   "id": 123764,
-   "nom": "The Slormancer",
-   "date": "2026-11-05",
-   "genres": [
-    "Role-playing (RPG)",
-    "Adventure",
-    "Indie",
-    "Arcade"
-   ],
-   "note": null,
-   "video": "rPrwtmK3w_I",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ohn.jpg"
-  },
-  {
-   "id": 117531,
-   "nom": "Kingdom of Night",
-   "date": "2026-11-05",
-   "genres": [
-    "Role-playing (RPG)",
-    "Adventure",
-    "Indie",
-    "Arcade"
-   ],
-   "note": null,
-   "video": "NYSdk2oFdIY",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocyij.jpg"
-  },
-  {
-   "id": 203885,
-   "nom": "Yomawari: Lost in the Dark",
-   "date": "2026-11-05",
-   "genres": [
-    "Puzzle",
-    "Strategy",
-    "Adventure"
-   ],
-   "note": null,
-   "video": "JQlZWMLJXl0",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co59il.jpg"
-  },
-  {
-   "id": 28289,
-   "nom": "Yomawari: Midnight Shadows",
-   "date": "2026-11-05",
-   "genres": [
-    "Puzzle",
-    "Strategy",
-    "Adventure"
-   ],
-   "note": 83,
-   "video": "jfEFG_XRBf8",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co234u.jpg"
-  },
-  {
-   "id": 11589,
-   "nom": "Yomawari: Night Alone",
-   "date": "2026-11-05",
-   "genres": [
-    "Strategy",
-    "Adventure"
-   ],
-   "note": 80,
-   "video": "tYuifuDTmqU",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2nh3.jpg"
-  },
-  {
-   "id": 416123,
-   "nom": "Where the Seeds Fall",
-   "date": "2026-11-05",
-   "genres": [
-    "Platform",
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "zdDJlYAVe-c",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coctkd.jpg"
-  },
-  {
-   "id": 408838,
-   "nom": "K-Pop Rising: Dream to Shine",
-   "date": "2026-11-05",
-   "genres": [
-    "Music",
-    "Simulator",
-    "Adventure",
-    "Visual Novel"
-   ],
-   "note": null,
-   "video": "lSPG2bPZaAw",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coccke.jpg"
-  },
-  {
-   "id": 399436,
-   "nom": "Crymelight: Tea Party Box",
-   "date": "2026-11-05",
-   "genres": [
-    "Role-playing (RPG)"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobz7c.jpg"
-  },
-  {
-   "id": 399408,
-   "nom": "Crymelight",
-   "date": "2026-11-05",
-   "genres": [
-    "Role-playing (RPG)",
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "IvwQcEJzNp4",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobz5q.jpg"
   }
  ]
 }

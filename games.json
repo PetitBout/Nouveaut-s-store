@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-19 15:29",
+ "maj": "2026-11-20 15:07",
  "jeux": [
   {
    "id": 429340,
@@ -447,7 +447,7 @@
     "Sport",
     "Strategy"
    ],
-   "note": null,
+   "note": 79,
    "video": null,
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod0sj.jpg"
   },
@@ -500,31 +500,6 @@
    "note": null,
    "video": "AbDSwdOZUwk",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9v85.jpg"
-  },
-  {
-   "id": 147775,
-   "nom": "Checkers Master",
-   "date": "2026-11-06",
-   "genres": [
-    "Strategy",
-    "Card & Board Game"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co579w.jpg"
-  },
-  {
-   "id": 412107,
-   "nom": "Hasbro Games Junior Collection",
-   "date": "2026-11-06",
-   "genres": [
-    "Puzzle",
-    "Strategy",
-    "Card & Board Game"
-   ],
-   "note": null,
-   "video": "XCBjoeFX-e4",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocm0w.jpg"
   }
  ]
 }

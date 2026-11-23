@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-22 14:20",
+ "maj": "2026-11-23 17:43",
  "jeux": [
+  {
+   "id": 358766,
+   "nom": "Gothic 3 Classic",
+   "date": "2026-11-24",
+   "genres": [
+    "Role-playing (RPG)",
+    "Adventure"
+   ],
+   "note": null,
+   "video": "LqnfudVwoHI",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa7pa.jpg"
+  },
   {
    "id": 429340,
    "nom": "Geo Book",
@@ -196,6 +208,7 @@
    "genres": [
     "Simulator",
     "Indie",
+    "Arcade",
     "Card & Board Game"
    ],
    "note": null,
@@ -488,18 +501,6 @@
    "note": null,
    "video": null,
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod9du.jpg"
-  },
-  {
-   "id": 345443,
-   "nom": "Hozy",
-   "date": "2026-11-09",
-   "genres": [
-    "Simulator",
-    "Indie"
-   ],
-   "note": null,
-   "video": "AbDSwdOZUwk",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9v85.jpg"
   }
  ]
 }

@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-23 17:43",
+ "maj": "2026-11-24 17:16",
  "jeux": [
+  {
+   "id": 134587,
+   "nom": "Destruction AllStars",
+   "date": "2026-11-25",
+   "genres": [
+    "Racing",
+    "Sport"
+   ],
+   "note": 67,
+   "video": "6kP3G5vO49A",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2gw6.jpg"
+  },
   {
    "id": 358766,
    "nom": "Gothic 3 Classic",
@@ -172,7 +184,7 @@
    "genres": [
     "Adventure"
    ],
-   "note": null,
+   "note": 76,
    "video": "tdRQUcVoBsM",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocjz3.jpg"
   },
@@ -386,121 +398,6 @@
    "note": 75,
    "video": "xADOCWgmrT0",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocje8.jpg"
-  },
-  {
-   "id": 250615,
-   "nom": "Fairgames",
-   "date": "2026-11-10",
-   "genres": [
-    "Adventure"
-   ],
-   "note": null,
-   "video": "l1Jp4K02L1I",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6jbe.jpg"
-  },
-  {
-   "id": 116014,
-   "nom": "Hard West 2",
-   "date": "2026-11-10",
-   "genres": [
-    "Role-playing (RPG)",
-    "Strategy",
-    "Turn-based strategy (TBS)",
-    "Tactical"
-   ],
-   "note": 88,
-   "video": "owBPVDifi7A",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4nqk.jpg"
-  },
-  {
-   "id": 138211,
-   "nom": "Ova Magica",
-   "date": "2026-11-10",
-   "genres": [
-    "Role-playing (RPG)",
-    "Simulator",
-    "Indie"
-   ],
-   "note": null,
-   "video": "nPSI0okfs5E",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2k81.jpg"
-  },
-  {
-   "id": 360748,
-   "nom": "Raccoin: Coin Pusher Roguelike",
-   "date": "2026-11-10",
-   "genres": [
-    "Simulator",
-    "Strategy",
-    "Indie",
-    "Arcade"
-   ],
-   "note": 88,
-   "video": "Yy1FcT6sfIo",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaa0s.jpg"
-  },
-  {
-   "id": 317817,
-   "nom": "Tanuki: Pon's Summer",
-   "date": "2026-11-10",
-   "genres": [
-    "Simulator",
-    "Indie"
-   ],
-   "note": null,
-   "video": "UrMS8mwiRtI",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8uyz.jpg"
-  },
-  {
-   "id": 420884,
-   "nom": "Football Manager 27",
-   "date": "2026-11-10",
-   "genres": [
-    "Simulator",
-    "Sport",
-    "Strategy"
-   ],
-   "note": 79,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod0sj.jpg"
-  },
-  {
-   "id": 424208,
-   "nom": "Shrek 2 Remastered",
-   "date": "2026-11-10",
-   "genres": [
-    "Platform",
-    "Adventure"
-   ],
-   "note": 40,
-   "video": "6qjCMqy1fAk",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod6wd.jpg"
-  },
-  {
-   "id": 376145,
-   "nom": "Warhammer Survivors",
-   "date": "2026-11-10",
-   "genres": [
-    "Role-playing (RPG)",
-    "Indie",
-    "Arcade"
-   ],
-   "note": 78,
-   "video": "P5E_EaxN1qo",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/codcp8.jpg"
-  },
-  {
-   "id": 420982,
-   "nom": "Football Manager 27 Console",
-   "date": "2026-11-10",
-   "genres": [
-    "Simulator",
-    "Sport",
-    "Strategy"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod9du.jpg"
   }
  ]
 }

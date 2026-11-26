@@ -1,6 +1,56 @@
 {
- "maj": "2026-11-25 16:58",
+ "maj": "2026-11-26 16:38",
  "jeux": [
+  {
+   "id": 368311,
+   "nom": "Arkheron",
+   "date": "2026-11-27",
+   "genres": [
+    "Fighting",
+    "Role-playing (RPG)",
+    "Tactical"
+   ],
+   "note": null,
+   "video": "2q-vxoejYf4",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod9ru.jpg"
+  },
+  {
+   "id": 337088,
+   "nom": "Mr. Elevator",
+   "date": "2026-11-27",
+   "genres": [
+    "Puzzle",
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "hET4y_RyZkk",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9l27.jpg"
+  },
+  {
+   "id": 431483,
+   "nom": "Arcade Archives 2: Dirt Dash",
+   "date": "2026-11-26",
+   "genres": [
+    "Racing",
+    "Arcade"
+   ],
+   "note": null,
+   "video": "K2z5a4MIRoY",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/codgfr.jpg"
+  },
+  {
+   "id": 431481,
+   "nom": "Arcade Archives 2: Rainbow Islands",
+   "date": "2026-11-26",
+   "genres": [
+    "Platform",
+    "Arcade"
+   ],
+   "note": null,
+   "video": "oUH-rJc1NIo",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/codgfm.jpg"
+  },
   {
    "id": 138398,
    "nom": "Antarctica 88",
@@ -146,12 +196,26 @@
    "date": "2026-11-23",
    "genres": [
     "Simulator",
+    "Strategy",
     "Adventure",
     "Indie"
    ],
    "note": null,
    "video": "H_nN_mJgWN8",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobncy.jpg"
+  },
+  {
+   "id": 431463,
+   "nom": "Not to Spec",
+   "date": "2026-11-21",
+   "genres": [
+    "Puzzle",
+    "Simulator",
+    "Indie"
+   ],
+   "note": null,
+   "video": null,
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/codgee.jpg"
   },
   {
    "id": 429340,
@@ -404,125 +468,6 @@
    "note": null,
    "video": "Zrw27jqSxPU",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc665.jpg"
-  },
-  {
-   "id": 422318,
-   "nom": "Fakin It XL",
-   "date": "2026-11-12",
-   "genres": [
-    "Strategy",
-    "Indie"
-   ],
-   "note": 80,
-   "video": "Voc02SEcnak",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod35h.jpg"
-  },
-  {
-   "id": 274920,
-   "nom": "Supermarket Simulator",
-   "date": "2026-11-12",
-   "genres": [
-    "Simulator",
-    "Strategy",
-    "Indie"
-   ],
-   "note": null,
-   "video": "6ZQSUpwHSq8",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa8e2.jpg"
-  },
-  {
-   "id": 413250,
-   "nom": "Autobahn Police Simulator 4",
-   "date": "2026-11-12",
-   "genres": [
-    "Simulator"
-   ],
-   "note": null,
-   "video": "5ANOeEh0ZCY",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocobo.jpg"
-  },
-  {
-   "id": 425025,
-   "nom": "Good President Simulator",
-   "date": "2026-11-12",
-   "genres": [
-    "Simulator",
-    "Strategy",
-    "Indie"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod76b.jpg"
-  },
-  {
-   "id": 429337,
-   "nom": "Arcade Archives 2: Rezon",
-   "date": "2026-11-12",
-   "genres": [
-    "Shooter",
-    "Arcade"
-   ],
-   "note": null,
-   "video": "fr3LlQGA4NU",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/codczj.jpg"
-  },
-  {
-   "id": 429336,
-   "nom": "Arcade Archives 2: Shot Rider",
-   "date": "2026-11-12",
-   "genres": [
-    "Racing",
-    "Arcade"
-   ],
-   "note": null,
-   "video": "-A4w6fuGi2o",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/codczg.jpg"
-  },
-  {
-   "id": 425953,
-   "nom": "Supermarket: Tidy Up!",
-   "date": "2026-11-12",
-   "genres": [
-    "Simulator"
-   ],
-   "note": null,
-   "video": null,
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod8kg.jpg"
-  },
-  {
-   "id": 383739,
-   "nom": "Weed Supermarket Simulator",
-   "date": "2026-11-12",
-   "genres": [
-    "Simulator",
-    "Indie"
-   ],
-   "note": null,
-   "video": "6ztTTDBhT1M",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob6eq.jpg"
-  },
-  {
-   "id": 371097,
-   "nom": "Hazard Levels",
-   "date": "2026-11-12",
-   "genres": [
-    "Shooter",
-    "Adventure"
-   ],
-   "note": null,
-   "video": "MWUYC4dQUh4",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coat36.jpg"
-  },
-  {
-   "id": 404714,
-   "nom": "Sonic Pico Park",
-   "date": "2026-11-12",
-   "genres": [
-    "Puzzle"
-   ],
-   "note": null,
-   "video": "RFg-S2seDqU",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocowo.jpg"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-26 16:38",
+ "maj": "2026-11-27 16:23",
  "jeux": [
   {
    "id": 368311,
@@ -26,6 +26,19 @@
    "note": null,
    "video": "hET4y_RyZkk",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9l27.jpg"
+  },
+  {
+   "id": 346998,
+   "nom": "Origament: A Paper Adventure",
+   "date": "2026-11-26",
+   "genres": [
+    "Platform",
+    "Adventure",
+    "Indie"
+   ],
+   "note": null,
+   "video": "33DyPRmztxI",
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wpt.jpg"
   },
   {
    "id": 431483,
@@ -101,7 +114,7 @@
    ],
    "note": 83,
    "video": "e-FuDjteXxs",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6i5f.jpg"
+   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/codgut.jpg"
   },
   {
    "id": 425973,
@@ -404,70 +417,6 @@
    "note": null,
    "video": "Icyjj8VHqgc",
    "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/codct4.jpg"
-  },
-  {
-   "id": 216641,
-   "nom": "Empires Shall Fall",
-   "date": "2026-11-13",
-   "genres": [
-    "Shooter",
-    "Strategy",
-    "Turn-based strategy (TBS)"
-   ],
-   "note": null,
-   "video": "TmUNSQ0MEnQ",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7pyl.jpg"
-  },
-  {
-   "id": 426460,
-   "nom": "QUTAS67: Qubic Ultimate Tap Adventure Simulator 2067",
-   "date": "2026-11-13",
-   "genres": [
-    "Simulator",
-    "Indie",
-    "Arcade",
-    "Card & Board Game"
-   ],
-   "note": null,
-   "video": "d8-J-rpKlM0",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod92c.jpg"
-  },
-  {
-   "id": 206842,
-   "nom": "Derelikt",
-   "date": "2026-11-13",
-   "genres": [
-    "Shooter",
-    "Adventure",
-    "Indie"
-   ],
-   "note": null,
-   "video": "u3a_3vzvQqY",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa07m.jpg"
-  },
-  {
-   "id": 347820,
-   "nom": "Leaf Blower Co.",
-   "date": "2026-11-13",
-   "genres": [
-    "Simulator",
-    "Indie"
-   ],
-   "note": null,
-   "video": "B6b9ARfNu7U",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xmt.jpg"
-  },
-  {
-   "id": 404342,
-   "nom": "Bombanana!",
-   "date": "2026-11-13",
-   "genres": [
-    "Puzzle",
-    "Indie"
-   ],
-   "note": null,
-   "video": "Zrw27jqSxPU",
-   "affiche": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc665.jpg"
   }
  ]
 }
